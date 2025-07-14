@@ -6416,6 +6416,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-07-14 18:17:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-14 18:05:08 +0000"
@@ -6533,6 +6539,12 @@
   "mca:recipes/decorations/red_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-07-14 18:23:13 +0000"
     },
     "done": true
   },

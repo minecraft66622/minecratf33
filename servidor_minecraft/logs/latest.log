@@ -1089,3 +1089,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [14Jul2025 18:09:17.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
 [14Jul2025 18:13:01.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Vex
 [14Jul2025 18:13:01.931] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[14Jul2025 18:16:36.856] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 18:17:41.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Dark Forging]
+[14Jul2025 18:23:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Compact Necromancy]
