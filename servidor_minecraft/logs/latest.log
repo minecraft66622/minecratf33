@@ -1203,3 +1203,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [14Jul2025 19:25:39.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:60729] logged in with entity id 65503 at (-1440.8559100911689, 30.5, -7763.300000011921)
 [14Jul2025 19:25:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
 [14Jul2025 19:25:39.891] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[14Jul2025 19:44:39.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-937, y=-25, z=-9154} but found not block entity block Block{minecraft:water}[level=6] at location
+[14Jul2025 19:44:39.034] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=6] but failed at location BlockPos{x=-937, y=-25, z=-9154}
+[14Jul2025 19:45:09.377] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Jul2025 19:47:33.003] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:48:49.183] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[14Jul2025 19:48:49.184] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[14Jul2025 19:53:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Masquerade]
+[14Jul2025 19:53:34.207] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[14Jul2025 19:57:03.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[14Jul2025 19:57:27.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:57:27.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:57:31.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! 6.398500094323708,-1.0,-7.8286464692591835
+[14Jul2025 19:57:31.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[14Jul2025 19:58:03.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:58:05.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:58:10.807] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:58:42.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! 8.770259218814545,1.7531999805212024,-4.812284158242619
+[14Jul2025 19:58:42.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[14Jul2025 20:00:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [The Cave That Time Forgot]
+[14Jul2025 20:00:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Town of Bedrock]
+[14Jul2025 20:02:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE fell from a high place
+[14Jul2025 20:02:20.293] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[14Jul2025 20:02:22.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 20:06:29.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 20:07:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was doomed to fall by Aetherial Glaze
+[14Jul2025 20:07:10.203] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
