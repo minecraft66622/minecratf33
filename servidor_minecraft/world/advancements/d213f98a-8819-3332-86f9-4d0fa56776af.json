@@ -1047,6 +1047,7 @@
       "beef": "2025-07-11 23:35:30 +0000",
       "apple": "2025-07-13 19:52:59 +0000",
       "pumpkin_pie": "2025-07-13 00:37:41 +0000",
+      "mutton": "2025-07-14 18:27:07 +0000",
       "bread": "2025-07-12 00:55:09 +0000",
       "golden_apple": "2025-07-13 00:28:33 +0000",
       "rotten_flesh": "2025-07-12 00:31:25 +0000",
@@ -6416,6 +6417,12 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-07-14 18:28:58 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_forging": {
     "criteria": {
       "dark_forging_0": "2025-07-14 18:17:41 +0000"
@@ -6461,6 +6468,12 @@
   "mca:recipes/decorations/yellow_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-14 18:29:52 +0000"
     },
     "done": true
   },
