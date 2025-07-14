@@ -2558,6 +2558,7 @@
       "entered_tower_of_the_undead": "2025-07-12 00:28:58 +0000",
       "entered_stables": "2025-07-12 01:30:50 +0000",
       "entered_pillager_camp": "2025-07-13 23:43:16 +0000",
+      "entered_hay_storage": "2025-07-14 18:52:49 +0000",
       "entered_pirate_ship": "2025-07-13 01:26:00 +0000",
       "entered_druid_circle": "2025-07-14 00:05:33 +0000",
       "entered_large_dungeon": "2025-07-13 18:00:34 +0000",
@@ -6395,6 +6396,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-07-14 18:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-07-14 18:05:08 +0000"
@@ -6434,6 +6441,12 @@
   "mca:recipes/decorations/blue_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-07-14 18:44:56 +0000"
     },
     "done": true
   },
