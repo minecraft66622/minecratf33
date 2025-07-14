@@ -1152,3 +1152,54 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [14Jul2025 18:53:32.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14Jul2025 18:53:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
 [14Jul2025 18:55:56.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 18:57:58.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[14Jul2025 18:59:33.659] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:00:19.639] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-24, z=-302}
+[14Jul2025 19:00:19.639] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-20, z=-303}
+[14Jul2025 19:00:19.640] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=620, y=-20, z=-301}
+[14Jul2025 19:00:31.959] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=612, y=-24, z=-296}
+[14Jul2025 19:00:31.974] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=606, y=-20, z=-307}
+[14Jul2025 19:00:31.975] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=606, y=-24, z=-298}
+[14Jul2025 19:00:31.976] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=616, y=-24, z=-308}
+[14Jul2025 19:00:31.976] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-20, z=-310}
+[14Jul2025 19:00:31.976] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=615, y=-20, z=-306}
+[14Jul2025 19:00:31.977] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=611, y=-24, z=-303}
+[14Jul2025 19:00:31.978] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=613, y=-24, z=-302}
+[14Jul2025 19:00:46.006] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:01:23.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[14Jul2025 19:01:23.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! 2.9346988170996156,-9.514204596109153,-2.455243343825714
+[14Jul2025 19:01:33.908] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:04:08.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[14Jul2025 19:04:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[14Jul2025 19:06:18.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:08:23.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[14Jul2025 19:08:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[14Jul2025 19:08:23.828] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2025 19:08:26.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[14Jul2025 19:08:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[14Jul2025 19:09:53.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1b31df0[id=<null>,name=JUANCITO,properties={},legacy=false] (/127.128.110.199:54749): Took too long to log in
+[14Jul2025 19:09:53.708] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b31df0[id=<null>,name=JUANCITO,properties={},legacy=false] (/127.128.110.199:54749) lost connection: Took too long to log in
+[14Jul2025 19:09:53.755] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2025 19:09:56.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:33763] logged in with entity id 57699 at (-2631.4100828406863, 114.0, -6967.337081170547)
+[14Jul2025 19:09:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[14Jul2025 19:09:56.596] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[14Jul2025 19:10:09.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:46311] logged in with entity id 58082 at (-2704.360324310991, 129.25060205943342, -7019.130611817947)
+[14Jul2025 19:10:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[14Jul2025 19:10:09.713] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[14Jul2025 19:11:06.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[14Jul2025 19:11:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[14Jul2025 19:12:22.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:15:10.208] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:16:36.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:16:45.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:16:50.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:17:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:17:33.257] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14Jul2025 19:18:02.591] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[14Jul2025 19:18:02.592] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[14Jul2025 19:21:54.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Sunken City]
+[14Jul2025 19:24:58.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[14Jul2025 19:24:58.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[14Jul2025 19:25:39.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:60729] logged in with entity id 65503 at (-1440.8559100911689, 30.5, -7763.300000011921)
+[14Jul2025 19:25:39.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[14Jul2025 19:25:39.891] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
