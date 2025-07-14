@@ -6350,9 +6350,147 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/black_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 18:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_block_of_chocolate": {
     "criteria": {
       "eat_block_of_chocolate": "2025-07-14 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_2": "2025-07-14 17:54:45 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/decorations/light_gray_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
     },
     "done": true
   },
@@ -6362,9 +6500,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/gingerbread_crumbs": {
     "criteria": {
       "crumbs": "2025-07-14 17:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-14 18:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2025-07-14 18:05:08 +0000"
     },
     "done": true
   },
