@@ -7028,5 +7028,41 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-07-15 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-15 18:27:39 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory": {
+    "criteria": {
+      "has_item": "2025-07-15 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-07-15 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/celestial_spellbook": {
+    "criteria": {
+      "has_item": "2025-07-15 18:29:29 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-07-15 18:27:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -7653,5 +7653,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 18:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-07-15 18:25:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2025-07-15 18:25:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

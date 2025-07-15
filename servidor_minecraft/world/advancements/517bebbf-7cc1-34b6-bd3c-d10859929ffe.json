@@ -1611,6 +1611,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-11 01:49:52 +0000",
+      "minecraft:blaze": "2025-07-15 18:24:58 +0000",
       "minecraft:skeleton": "2025-07-11 01:55:19 +0000",
       "minecraft:ghast": "2025-07-15 18:10:39 +0000",
       "minecraft:hoglin": "2025-07-15 17:59:43 +0000",
@@ -1621,6 +1622,7 @@
       "minecraft:creeper": "2025-07-11 20:21:50 +0000",
       "minecraft:evoker": "2025-07-13 01:36:49 +0000",
       "minecraft:witch": "2025-07-14 00:28:54 +0000",
+      "minecraft:wither_skeleton": "2025-07-15 18:27:56 +0000",
       "minecraft:husk": "2025-07-11 17:22:35 +0000",
       "minecraft:shulker": "2025-07-15 05:50:00 +0000",
       "minecraft:piglin": "2025-07-12 03:24:41 +0000",
@@ -6907,6 +6909,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
       "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
@@ -6934,6 +6942,12 @@
   "legendary_monsters:defeat_skeletosaurus": {
     "criteria": {
       "skeletosaurus": "2025-07-15 18:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-15 18:20:56 +0000"
     },
     "done": true
   },
@@ -7015,9 +7029,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
       "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 18:28:49 +0000"
     },
     "done": true
   },
