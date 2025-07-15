@@ -3854,6 +3854,7 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
+      "charm_collector_1": "2025-07-15 01:45:26 +0000",
       "charm_collector_3": "2025-07-11 20:30:04 +0000"
     },
     "done": false
@@ -6036,6 +6037,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
@@ -6057,6 +6064,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 01:40:49 +0000"
     },
     "done": true
   },
@@ -6162,6 +6175,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
@@ -6210,6 +6229,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
@@ -6225,6 +6250,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
     },
     "done": true
   },

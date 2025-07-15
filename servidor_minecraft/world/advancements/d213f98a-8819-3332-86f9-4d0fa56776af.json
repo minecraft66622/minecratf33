@@ -6956,6 +6956,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-07-15 01:50:20 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-07-15 00:46:05 +0000"

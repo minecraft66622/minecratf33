@@ -1209,3 +1209,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 01:40:49.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [The Desert Swimmers]
 [15Jul2025 01:41:05.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11508ms or 230 ticks behind
 [15Jul2025 01:41:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[15Jul2025 01:41:52.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[15Jul2025 01:42:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 01:42:19.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12403ms or 248 ticks behind
+[15Jul2025 01:42:42.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Jul2025 01:42:59.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Jul2025 01:43:17.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3489ms or 69 ticks behind
+[15Jul2025 01:43:35.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[15Jul2025 01:43:53.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[15Jul2025 01:44:36.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[15Jul2025 01:44:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:45:13.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15Jul2025 01:45:43.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[15Jul2025 01:45:43.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[15Jul2025 01:45:52.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15Jul2025 01:46:21.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:46:52.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 01:47:13.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:33485] logged in with entity id 80972 at (-1183.4705313219563, 70.06127780639757, -1195.8778196688554)
+[15Jul2025 01:47:13.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[15Jul2025 01:47:13.840] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[15Jul2025 01:47:41.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:47:42.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Jul2025 01:48:00.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15Jul2025 01:48:17.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[15Jul2025 01:49:36.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:49:36.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:49:39.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15Jul2025 01:49:57.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:49:59.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
+[15Jul2025 01:50:20.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6050ms or 121 ticks behind
+[15Jul2025 01:50:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Terrifying Entrance]
+[15Jul2025 01:50:41.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6158ms or 123 ticks behind
+[15Jul2025 01:50:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:50:58.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[15Jul2025 01:51:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:51:08.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:51:16.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[15Jul2025 01:51:24.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 2.8668208825706643,0.0,-9.791629769589008
+[15Jul2025 01:51:36.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5200ms or 104 ticks behind
+[15Jul2025 01:51:59.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
