@@ -6959,6 +6959,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 18:42:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2025-07-15 18:13:41 +0000"
