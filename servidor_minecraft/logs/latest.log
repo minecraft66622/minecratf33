@@ -1155,3 +1155,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 01:09:48.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49915, l='ServerLevel[world]', x=-136.50, y=46.00, z=1068.50]
 [15Jul2025 01:09:52.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49982, l='ServerLevel[world]', x=1.50, y=21.00, z=1095.50]
 [15Jul2025 01:10:08.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50114, l='ServerLevel[world]', x=-137.50, y=48.00, z=1053.50]
+[15Jul2025 01:11:18.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[15Jul2025 01:11:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[15Jul2025 01:11:28.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:50907] logged in with entity id 50857 at (-81.61906966013154, 64.0, 1092.8978289623637)
+[15Jul2025 01:11:29.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[15Jul2025 01:11:29.075] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[15Jul2025 01:11:51.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [A Bone to Pick]
+[15Jul2025 01:11:56.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/51143, l='ServerLevel[world]', x=7.50, y=12.00, z=1073.50]
+[15Jul2025 01:12:16.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/51309, l='ServerLevel[world]', x=-138.50, y=49.00, z=1049.50]
+[15Jul2025 01:13:02.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/51731, l='ServerLevel[world]', x=1.50, y=16.00, z=1074.50]
+[15Jul2025 01:13:30.198] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/51930, l='ServerLevel[world]', x=2.50, y=5.00, z=1094.50]
+[15Jul2025 01:13:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.shock.player
+[15Jul2025 01:14:00.433] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:15:02.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/53580, l='ServerLevel[world]', x=1.50, y=7.00, z=1076.50]
+[15Jul2025 01:16:11.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/54526, l='ServerLevel[world]', x=6.50, y=23.00, z=1084.50]
+[15Jul2025 01:16:57.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55244, l='ServerLevel[world]', x=6.50, y=13.00, z=1086.50]
+[15Jul2025 01:18:43.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Dark Creator]
+[15Jul2025 01:20:04.398] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/58656, l='ServerLevel[world]', x=1.50, y=7.00, z=1073.50]
+[15Jul2025 01:20:27.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Junior Summoner]
