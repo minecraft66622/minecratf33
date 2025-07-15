@@ -1375,3 +1375,34 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [15Jul2025 18:09:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Long Time Ago]
+[15Jul2025 18:09:57.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[15Jul2025 18:09:57.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[15Jul2025 18:10:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has completed the challenge [The Ancient Skeleton]
+[15Jul2025 18:10:40.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:41969] logged in with entity id 37030 at (-2140.0406751452115, 90.0, -707.4525247009872)
+[15Jul2025 18:10:40.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[15Jul2025 18:10:40.703] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[15Jul2025 18:13:26.502] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 18:13:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Downer]
+[15Jul2025 18:14:25.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:37167] logged in with entity id 38873 at (-5193.047295982548, 74.00133597911214, -5549.285031809564)
+[15Jul2025 18:14:25.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[15Jul2025 18:14:25.269] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[15Jul2025 18:14:51.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 1.940352589320355,2.9496252420701694,9.705237096253768
+[15Jul2025 18:14:51.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 2.164579161115398,3.1156926781127936,10.846674170600636
+[15Jul2025 18:14:51.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 2.3898520032180386,3.262164156702397,11.995756892945792
+[15Jul2025 18:15:35.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -0.7788249923869444,0.0,10.09803079132962
+[15Jul2025 18:15:43.177] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=681, y=3, z=-183}
+[15Jul2025 18:15:43.177] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=3, z=-181}
+[15Jul2025 18:15:43.177] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=685, y=5, z=-181}
+[15Jul2025 18:15:43.177] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=3, z=-187}
+[15Jul2025 18:15:43.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=687, y=3, z=-186}
+[15Jul2025 18:15:43.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-4, z=-184}
+[15Jul2025 18:15:43.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=682, y=-2, z=-188}
+[15Jul2025 18:15:43.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=684, y=-3, z=-188}
+[15Jul2025 18:15:43.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=681, y=-2, z=-179}
+[15Jul2025 18:15:43.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=-4, z=-183}
+[15Jul2025 18:15:43.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=688, y=-1, z=-182}
+[15Jul2025 18:15:44.356] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=693, y=0, z=-176}
+[15Jul2025 18:16:52.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[15Jul2025 18:17:11.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! -6.18587644494437,2.580000013113022,7.49626158648789
+[15Jul2025 18:17:12.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4300ms or 86 ticks behind
+[15Jul2025 18:19:32.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! -9.08555502917352,0.12129684053920187,-4.317081098402014

@@ -1415,6 +1415,7 @@
       "deciduous_forest": "2025-07-12 02:04:11 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "glistering_meadow": "2025-07-11 19:16:18 +0000",
+      "infernal_holt": "2025-07-15 18:12:26 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
       "saguaro_desert": "2025-07-15 01:37:04 +0000",
       "temperate_grove": "2025-07-11 02:19:06 +0000",
@@ -1547,6 +1548,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "joshua_log": "2025-07-15 03:47:28 +0000",
+      "brimwood_log": "2025-07-15 18:12:28 +0000",
       "silver_birch_log": "2025-07-11 01:26:04 +0000",
       "maple_log": "2025-07-11 17:49:45 +0000"
     },
@@ -1610,6 +1612,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-11 01:49:52 +0000",
       "minecraft:skeleton": "2025-07-11 01:55:19 +0000",
+      "minecraft:ghast": "2025-07-15 18:10:39 +0000",
       "minecraft:hoglin": "2025-07-15 17:59:43 +0000",
       "minecraft:vindicator": "2025-07-11 01:50:57 +0000",
       "minecraft:magma_cube": "2025-07-11 19:32:49 +0000",
@@ -3601,6 +3604,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-07-11 19:12:05 +0000",
+      "infernal_holt": "2025-07-15 18:12:26 +0000",
       "glistering_meadow": "2025-07-11 19:16:18 +0000"
     },
     "done": false
@@ -6903,15 +6907,75 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-07-15 17:57:34 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-07-15 18:12:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-07-15 18:10:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-07-15 17:57:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-07-15 18:13:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 18:12:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
     },
     "done": true
   },
@@ -6927,9 +6991,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-15 17:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-15 18:12:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
     },
     "done": true
   },
