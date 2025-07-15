@@ -1610,6 +1610,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-11 01:49:52 +0000",
       "minecraft:skeleton": "2025-07-11 01:55:19 +0000",
+      "minecraft:hoglin": "2025-07-15 17:59:43 +0000",
       "minecraft:vindicator": "2025-07-11 01:50:57 +0000",
       "minecraft:magma_cube": "2025-07-11 19:32:49 +0000",
       "minecraft:spider": "2025-07-11 01:55:04 +0000",
@@ -3708,6 +3709,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-07-15 18:09:33 +0000",
+      "minecraft:soul_sand_valley": "2025-07-15 18:09:45 +0000",
       "minecraft:basalt_deltas": "2025-07-11 19:33:52 +0000"
     },
     "done": false
@@ -6897,6 +6900,36 @@
   "ancient_elements:sword_of_space": {
     "criteria": {
       "sword_of_space": "2025-07-15 17:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-15 17:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-15 17:57:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-07-15 18:09:46 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-15 17:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-15 17:57:44 +0000"
     },
     "done": true
   },

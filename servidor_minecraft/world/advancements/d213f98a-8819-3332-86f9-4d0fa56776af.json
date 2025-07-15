@@ -7647,5 +7647,11 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
+    "criteria": {
+      "has_spruce_shrub": "2025-07-15 17:50:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

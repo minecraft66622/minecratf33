@@ -1064,3 +1064,314 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 17:45:29.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Jul2025 17:47:40.071] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
 [15Jul2025 17:47:58.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[15Jul2025 17:49:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has completed the challenge [Is it Hot in here?]
+[15Jul2025 17:50:02.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.760582036801679,0.0,-8.938094489638388
+[15Jul2025 17:50:02.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.358629978913996,0.0,-9.981974725990312
+[15Jul2025 17:50:02.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.949894676120493,0.0,-11.032861143506125
+[15Jul2025 17:50:02.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -7.535176551320546,0.0,-12.089927012808857
+[15Jul2025 17:50:02.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -8.115181577511066,0.0,-13.15244315858763
+[15Jul2025 17:50:02.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -8.69053242287464,0.0,-14.219766448218252
+[15Jul2025 17:50:02.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -9.26177828074924,0.0,-15.291329638725983
+[15Jul2025 17:50:02.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -9.828728699116255,0.0,-16.36696090734131
+[15Jul2025 17:50:02.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -10.390862556824686,0.0,-17.44667233996097
+[15Jul2025 17:50:02.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -10.945984103582305,0.0,-18.531257042579455
+[15Jul2025 17:50:02.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -11.49214333737109,0.0,-19.62135079043037
+[15Jul2025 17:50:02.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -12.029346622849516,0.0,-20.716743901951304
+[15Jul2025 17:50:02.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -12.555126720898443,0.0,-21.81821740927262
+[15Jul2025 17:50:02.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.068344720873029,0.0,-22.92598269274049
+[15Jul2025 17:50:02.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.568688925935021,0.0,-24.039935447935022
+[15Jul2025 17:50:02.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -14.057323897260176,0.0,-25.159468539766294
+[15Jul2025 17:50:02.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -14.488299941968762,0.0,-26.146896726761497
+[15Jul2025 17:50:02.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -14.915752195862297,0.0,-27.154835149440714
+[15Jul2025 17:50:02.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -15.340096466256,0.0,-28.180863599993245
+[15Jul2025 17:50:02.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -15.761699495203175,0.0,-29.22284745513025
+[15Jul2025 17:50:02.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -16.133553366735214,0.0,-30.14187721536109
+[15Jul2025 17:50:02.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 10.0846651843367,-1.5800000131130219,-2.407575556582742
+[15Jul2025 17:50:02.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -16.461528481426285,0.0,-30.9524614638849
+[15Jul2025 17:50:02.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -16.750802532584203,0.0,-31.667396771082622
+[15Jul2025 17:50:02.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.005942245705228,0.0,-32.29796971203132
+[15Jul2025 17:50:02.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.230975472677528,0.0,-32.854135045947714
+[15Jul2025 17:50:02.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.429454778867694,0.0,-33.34467287046209
+[15Jul2025 17:50:02.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.604513526926894,0.0,-33.77732723168401
+[15Jul2025 17:50:02.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.758915342715227,0.0,-34.158928378281416
+[15Jul2025 17:50:02.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.895097744240957,0.0,-34.49550058958039
+[15Jul2025 17:50:02.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.015210622386803,0.0,-34.79235727994637
+[15Jul2025 17:50:02.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.121150180911172,0.0,-35.05418488084888
+[15Jul2025 17:50:02.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.214588871529486,0.0,-35.28511682484486
+[15Jul2025 17:50:02.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.297001796654513,0.0,-35.48879879944934
+[15Jul2025 17:50:02.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.369689996615307,0.0,-35.66844630105061
+[15Jul2025 17:50:02.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[15Jul2025 17:50:03.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.278957648152755,0.0,-27.924737628117327
+[15Jul2025 17:50:03.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.335503543418781,0.0,-28.064489731153117
+[15Jul2025 17:50:03.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.385377023043475,0.0,-28.187751086030403
+[15Jul2025 17:50:03.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.4293654320727,0.0,-28.29646760103242
+[15Jul2025 17:50:55.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 17:51:51.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Jul2025 17:54:12.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[15Jul2025 17:54:45.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -1.99271770867108,0.0,10.873037218924765
+[15Jul2025 17:54:45.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -2.215325327942992,0.0,12.081098274669785
+[15Jul2025 17:54:45.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -2.438077738168431,0.0,13.289152761916284
+[15Jul2025 17:55:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 17:55:24.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 17:56:08.582] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.582] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.583] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.583] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.583] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.584] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.584] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.584] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.585] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:08.585] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:12.319] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:12.320] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:56:12.321] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Jul2025 17:57:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Oh Shiny]
+[15Jul2025 17:57:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Who is Cutting Onions?]
+[15Jul2025 18:00:54.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Jul2025 18:01:56.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.574969109785343,-5.246761404632096,6.540524525032197
+[15Jul2025 18:01:56.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.799853266323225,-5.641974791608035,7.319322721081335
+[15Jul2025 18:01:56.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.974773407355315,-5.990552998920819,8.149288224973134
+[15Jul2025 18:01:56.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.0770991458684875,-6.297998977770689,9.016659559550135
+[15Jul2025 18:01:56.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.133692281401636,-6.5691663311162785,9.925730693283185
+[15Jul2025 18:01:56.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.217446108700642,-6.808335936767094,10.774622815871226
+[15Jul2025 18:01:56.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.306031715931567,-7.019283528951107,11.57943605604396
+[15Jul2025 18:01:56.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.3788567126402995,-7.205339305257411,12.347026335080045
+[15Jul2025 18:01:56.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.411503125928903,-7.369440499959566,13.072672512842473
+[15Jul2025 18:01:56.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.440297262449349,-7.514177753686866,13.71269244162886
+[15Jul2025 18:01:56.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.465693690860462,-7.641836011474339,14.277190018819056
+[15Jul2025 18:01:56.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.488093340719388,-7.754430594842901,14.775076881900532
+[15Jul2025 18:01:56.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.5078498318944185,-7.853739017373968,15.214213095137893
+[15Jul2025 18:01:56.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.525275057110775,-7.941329046046377,15.60153123521377
+[15Jul2025 18:01:56.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.540644105752108,-8.01858345133543,15.943145834760799
+[15Jul2025 18:01:56.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.554199606653128,-8.086721836800379,16.244449911560878
+[15Jul2025 18:01:56.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.566155558448372,-8.14681989278047,16.51020010729826
+[15Jul2025 18:01:56.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.576700707931195,-8.19982637815491,16.744591779938673
+[15Jul2025 18:01:56.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.5860015297757855,-8.246578098255156,16.95132523520806
+[15Jul2025 18:01:56.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.594204854642157,-8.287813115383585,17.13366414275515
+[15Jul2025 18:01:56.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.601440187174376,-8.324182400490855,17.29448705921186
+[15Jul2025 18:01:56.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.607821750468247,-8.356260109955471,17.436332871527156
+[15Jul2025 18:01:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.613450289292814,-8.384552649703252,17.5614408779893
+[15Jul2025 18:01:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.618414660536473,-8.409506669760802,17.671786139688265
+[15Jul2025 18:01:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.622793235973404,-8.431516115451558,17.769110660507067
+[15Jul2025 18:01:56.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.62665513950833,-8.450928446550805,17.854950887869563
+[15Jul2025 18:01:56.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.765403098570459,-8.468050122580337,17.878708142526193
+[15Jul2025 18:01:56.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -7.023120558607843,-8.483151440838384,17.847708215255807
+[15Jul2025 18:01:56.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind
+[15Jul2025 18:01:56.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -2.07222999372334,-3.6977971392454236,11.94663983080136
+[15Jul2025 18:01:56.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -2.5274277836970214,-3.709544817150004,11.824747143079549
+[15Jul2025 18:01:56.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -3.064924696127491,-3.7199062690618376,11.66706607085871
+[15Jul2025 18:01:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -3.675526309986708,-3.7290450696480804,11.47924371881254
+[15Jul2025 18:01:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -4.351108231656326,-3.737105491765149,11.266266160404484
+[15Jul2025 18:01:56.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.084124812244227,-3.7442147840723976,11.03145658496669
+[15Jul2025 18:01:56.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -5.867924340854188,-3.7504851798873915,10.777759525362853
+[15Jul2025 18:01:56.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -6.696514429620038,-3.7560156689962128,10.507403704724311
+[15Jul2025 18:01:56.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -7.564609792443662,-3.760893560390201,10.222354856853599
+[15Jul2025 18:01:56.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -8.467548806986088,-3.7651958605996896,9.92434675896402
+[15Jul2025 18:01:56.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -9.401219922344353,-3.768990489384464,9.614908602557989
+[15Jul2025 18:01:56.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -10.361996750621984,-3.772337351972638,9.295389134540528
+[15Jul2025 18:01:56.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -11.346433211409021,-3.772337351972638,8.966254719845892
+[15Jul2025 18:01:56.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -12.346520739321932,-3.772337351972638,8.615613226290407
+[15Jul2025 18:01:56.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -13.344757621525787,-3.772337351972638,8.219609197172758
+[15Jul2025 18:01:56.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -14.324164886726976,-3.772337351972638,7.764394756096408
+[15Jul2025 18:01:56.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -15.279529509854001,-3.772337351972638,7.250470872733786
+[15Jul2025 18:01:56.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -16.213688522670964,-3.772337351972638,6.684765261274151
+[15Jul2025 18:01:56.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -17.12914418719447,-3.772337351972638,6.073388165633332
+[15Jul2025 18:01:56.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.028103498522796,-3.772337351972638,5.421728820944736
+[15Jul2025 18:01:56.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -18.912513026333727,-3.772337351972638,4.734540532595929
+[15Jul2025 18:01:56.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -19.821883221783537,-3.772337351972638,4.0566125788182035
+[15Jul2025 18:01:56.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -20.753268726091846,-3.772337351972638,3.3868522401326118
+[15Jul2025 18:01:56.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -21.619720640094783,-3.772337351972638,2.8327345880443318
+[15Jul2025 18:01:56.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -22.42899574925741,-3.772337351972638,2.380497253746398
+[15Jul2025 18:01:56.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -23.190218825221564,-3.772337351972638,2.01496865219724
+[15Jul2025 18:01:56.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -23.91465364785381,-3.772337351972638,1.7160208855748351
+[15Jul2025 18:01:56.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -24.61053819717654,-3.772337351972638,1.4633618748594017
+[15Jul2025 18:01:56.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -25.286374851637447,-3.772337351972638,1.3095423828035564
+[15Jul2025 18:01:56.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! -25.907372517630392,-3.772337351972638,1.241944533685455
+[15Jul2025 18:02:21.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 10.428019151954686,0.0,2.431218286449621
+[15Jul2025 18:02:21.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 11.011244157989495,0.0,2.7440657257329804
+[15Jul2025 18:02:21.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 11.525648613312114,0.0,3.019997167180918
+[15Jul2025 18:02:21.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 11.979353342906506,0.0,3.2633686985382155
+[15Jul2025 18:02:21.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 12.379520914409113,0.0,3.478022389194848
+[15Jul2025 18:02:21.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 12.732468712474656,0.0,3.6673469443539943
+[15Jul2025 18:02:21.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 13.043768670368081,0.0,3.8343312020042504
+[15Jul2025 18:02:21.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 13.318335233229845,0.0,3.981611317251918
+[15Jul2025 18:02:21.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 13.560502941673803,0.0,4.111512378900443
+[15Jul2025 18:02:21.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 13.774094860521473,0.0,4.226085115274145
+[15Jul2025 18:02:21.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 13.962482932945022,0.0,4.327138268756244
+[15Jul2025 18:02:21.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.128641212822913,0.0,4.416267150127169
+[15Jul2025 18:02:21.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.275192815674927,0.0,4.4948788234960375
+[15Jul2025 18:02:21.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.404451329390213,0.0,4.5642143194081655
+[15Jul2025 18:02:21.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.518457338487678,0.0,4.625368226802493
+[15Jul2025 18:02:21.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.6190106385111,0.0,4.679305973124428
+[15Jul2025 18:02:21.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.707698649131999,0.0,4.726879065379762
+[15Jul2025 18:02:21.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.785921474499446,0.0,4.768838532749214
+[15Jul2025 18:02:21.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.854914006473336,0.0,4.805846782968729
+[15Jul2025 18:02:21.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.915765419674244,0.0,4.838488059662268
+[15Jul2025 18:02:21.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 14.969436366117407,0.0,4.867277665706752
+[15Jul2025 18:02:21.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.016774140880443,0.0,4.892670098237431
+[15Jul2025 18:02:21.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.058526058222014,0.0,4.915066223729809
+[15Jul2025 18:02:21.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.095351249316991,0.0,4.934819606413839
+[15Jul2025 18:02:21.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -9.233376869038239,0.0,-4.041148761076329
+[15Jul2025 18:02:21.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.127831067862644,0.0,4.952242089941137
+[15Jul2025 18:02:21.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.156478267819693,0.0,4.9676087204125
+[15Jul2025 18:02:21.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.181745098181636,0.0,4.981162088488418
+[15Jul2025 18:02:21.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.204030442560907,0.0,4.993116159131205
+[15Jul2025 18:02:21.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.223686116303725,0.0,5.003659649438305
+[15Jul2025 18:02:21.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.24102242054505,0.0,5.0129590078886395
+[15Jul2025 18:02:21.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.256313040886198,0.0,5.0211610420419674
+[15Jul2025 18:02:21.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.269799368026725,0.0,5.0283952361651245
+[15Jul2025 18:02:21.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.28169430856451,0.0,5.034775795382302
+[15Jul2025 18:02:21.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.292185646118924,0.0,5.040403448611869
+[15Jul2025 18:02:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.30143900584153,0.0,5.04536703875965
+[15Jul2025 18:02:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.309600469116958,0.0,5.049744925270716
+[15Jul2025 18:02:21.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.316798879725866,0.0,5.0536062211731405
+[15Jul2025 18:02:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.323147877883457,0.0,5.057011884158783
+[15Jul2025 18:02:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.3287476942578,0.0,5.06001567891235
+[15Jul2025 18:02:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.33368673230052,0.0,5.06001567891235
+[15Jul2025 18:02:21.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.338042963853695,0.0,5.06001567891235
+[15Jul2025 18:02:21.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of RODSQUARE) moved too quickly! 15.34188516008362,0.0,5.06001567891235
+[15Jul2025 18:02:21.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[15Jul2025 18:02:56.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[15Jul2025 18:02:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[15Jul2025 18:02:56.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[15Jul2025 18:02:56.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[15Jul2025 18:02:59.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:60155] logged in with entity id 30153 at (-2140.354917119561, 90.0, -706.993629252739)
+[15Jul2025 18:02:59.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[15Jul2025 18:02:59.162] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[15Jul2025 18:03:04.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:49849] logged in with entity id 30493 at (-5389.728972674201, 101.24466395378113, -5973.35567688964)
+[15Jul2025 18:03:04.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[15Jul2025 18:03:05.325] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[15Jul2025 18:04:41.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[15Jul2025 18:04:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[15Jul2025 18:04:49.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:42479] logged in with entity id 31826 at (-2140.7213183935028, 90.0, -711.1877473161976)
+[15Jul2025 18:04:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[15Jul2025 18:04:49.781] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[15Jul2025 18:04:50.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[15Jul2025 18:04:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[15Jul2025 18:04:52.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:38929] logged in with entity id 31903 at (-5360.142439277495, 84.0, -5704.242298790964)
+[15Jul2025 18:04:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[15Jul2025 18:04:52.112] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[15Jul2025 18:05:19.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[15Jul2025 18:05:19.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[15Jul2025 18:05:22.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[15Jul2025 18:05:22.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[15Jul2025 18:05:59.361] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7230d8e[id=<null>,name=JUANCITO,properties={},legacy=false] (/127.128.110.199:54127) lost connection: Disconnected
+[15Jul2025 18:06:04.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:44321] logged in with entity id 32565 at (-2140.7213183935028, 90.0, -711.1877473161976)
+[15Jul2025 18:06:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[15Jul2025 18:06:04.208] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[15Jul2025 18:06:31.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70e63239[id=<null>,name=RODSQUARE,properties={},legacy=false] (/127.244.12.29:55725) lost connection: Disconnected
+[15Jul2025 18:06:56.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:34319] logged in with entity id 33357 at (-5360.142439277495, 84.0, -5704.242298790964)
+[15Jul2025 18:06:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[15Jul2025 18:06:56.766] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[15Jul2025 18:07:04.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[15Jul2025 18:07:04.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[15Jul2025 18:07:41.631] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:07:41.632] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:07:41.632] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:07:41.633] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:07:41.634] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:07:41.634] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jul2025 18:09:46.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Long Time Ago]
