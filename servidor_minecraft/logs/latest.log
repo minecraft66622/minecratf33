@@ -1091,3 +1091,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 00:48:48.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/28412, l='ServerLevel[world]', x=5.50, y=18.00, z=1092.50]
 [15Jul2025 00:49:19.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [15Jul2025 00:49:36.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[15Jul2025 00:50:13.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15Jul2025 00:50:13.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- drowned
+[15Jul2025 00:50:13.994] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[15Jul2025 00:50:13.999] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29515, l='ServerLevel[world]', x=-138.50, y=52.00, z=1068.50]
+[15Jul2025 00:50:43.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30028, l='ServerLevel[world]', x=-138.50, y=50.00, z=1045.50]
+[15Jul2025 00:50:51.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 00:50:53.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[15Jul2025 00:51:00.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[15Jul2025 00:51:06.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30412, l='ServerLevel[world]', x=0.50, y=18.00, z=1082.50]
+[15Jul2025 00:51:57.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31129, l='ServerLevel[world]', x=8.50, y=13.00, z=1074.50]
+[15Jul2025 00:52:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was doomed to fall by Lightning Dragon
+[15Jul2025 00:52:05.596] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:52:05.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15Jul2025 00:52:28.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Jul2025 00:52:51.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was energized by Lightning Dragon
+[15Jul2025 00:52:52.280] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:52:52.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[15Jul2025 00:53:01.171] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:54:10.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was energized by Lightning Dragon
+[15Jul2025 00:54:10.990] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:54:27.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33937, l='ServerLevel[world]', x=2.50, y=22.00, z=1082.50]
+[15Jul2025 00:55:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Mother of Dragons]
+[15Jul2025 00:56:48.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:56:52.985] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/36629, l='ServerLevel[world]', x=-135.50, y=50.00, z=1060.50]
+[15Jul2025 00:56:53.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]
+[15Jul2025 00:57:21.152] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:57:21.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/37226, l='ServerLevel[world]', x=6.50, y=16.00, z=1082.50]
+[15Jul2025 00:57:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 00:58:07.448] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:58:13.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38312, l='ServerLevel[world]', x=-143.50, y=52.00, z=1052.50]
+[15Jul2025 00:59:28.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38949, l='ServerLevel[world]', x=7.50, y=18.00, z=1093.50]
+[15Jul2025 00:59:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Greed may lead to loss]
