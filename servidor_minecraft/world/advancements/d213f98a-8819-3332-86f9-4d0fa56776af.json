@@ -6594,6 +6594,120 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-14 19:36:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-14 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-14 20:00:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-07-14 20:00:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-07-14 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-07-14 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-07-14 20:10:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-07-14 20:14:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-07-14 20:26:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-14 20:26:31 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
@@ -6606,27 +6720,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2025-07-14 20:09:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-14 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-07-14 19:53:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
     },
     "done": true
   },
@@ -6666,18 +6762,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
-    "criteria": {
-      "has_log": "2025-07-14 20:26:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-07-14 20:26:51 +0000"
@@ -6687,18 +6771,6 @@
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
     },
     "done": true
   },
@@ -6720,12 +6792,6 @@
     },
     "done": true
   },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-07-14 19:36:25 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
@@ -6741,24 +6807,6 @@
   "mca:recipes/decorations/yellow_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2025-07-14 20:09:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_sign": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
     },
     "done": true
   },
@@ -6780,42 +6828,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-07-14 20:00:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
-    "criteria": {
-      "has_pine_planks": "2025-07-14 20:10:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
-    "criteria": {
-      "has_dark_oak_sapling": "2025-07-14 20:14:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/limestone": {
-    "criteria": {
-      "limestone": "2025-07-14 20:00:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-14 20:26:51 +0000"
@@ -6828,21 +6840,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-14 20:26:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-14 20:26:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-07-14 20:09:08 +0000"
     },
     "done": true
   },
@@ -6855,6 +6855,12 @@
   "mca:recipes/decorations/magenta_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-15 00:31:21 +0000"
     },
     "done": true
   },

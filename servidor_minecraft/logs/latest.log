@@ -1027,3 +1027,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 00:26:17.349] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Jul2025 00:26:55.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9454, l='ServerLevel[world]', x=7.50, y=14.00, z=1085.50]
 [15Jul2025 00:27:14.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9622, l='ServerLevel[world]', x=4.50, y=14.00, z=1081.50]
+[15Jul2025 00:29:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was killed by magic
+[15Jul2025 00:29:40.247] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[15Jul2025 00:29:47.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Discreet Search]
+[15Jul2025 00:30:15.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/11257, l='ServerLevel[world]', x=6.50, y=20.00, z=1098.50]
+[15Jul2025 00:30:22.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/11326, l='ServerLevel[world]', x=7.50, y=12.00, z=1089.50]
+[15Jul2025 00:30:49.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:39281] logged in with entity id 11441 at (-22.357143688468735, 69.16610926093821, -9581.883008419163)
+[15Jul2025 00:30:49.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[15Jul2025 00:30:49.432] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[15Jul2025 00:31:00.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Jul2025 00:31:16.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Deer['Deer'/12071, l='ServerLevel[world]', x=31.22, y=97.00, z=-9386.41]
+[15Jul2025 00:31:21.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Chompy]
+[15Jul2025 00:31:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Crocodile
+[15Jul2025 00:31:24.767] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:31:25.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12158, l='ServerLevel[world]', x=3.50, y=19.00, z=1096.50]
+[15Jul2025 00:31:52.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:32:38.749] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13737, l='ServerLevel[world]', x=1.50, y=18.00, z=1074.50]
+[15Jul2025 00:33:19.036] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Christian'/12429, l='ServerLevel[world]', x=105.38, y=63.02, z=-9582.35] died, message: 'Christian was slain by Crocodile'
+[15Jul2025 00:33:19.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Christian'/12429, l='ServerLevel[world]', x=105.38, y=63.02, z=-9582.35] died: Christian was slain by Crocodile
+[15Jul2025 00:33:52.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:34:20.809] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15720, l='ServerLevel[world]', x=-135.50, y=50.00, z=1057.50]
+[15Jul2025 00:34:27.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15837, l='ServerLevel[world]', x=0.50, y=15.00, z=1074.50]
+[15Jul2025 00:34:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Black or White]
+[15Jul2025 00:35:10.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16642, l='ServerLevel[world]', x=3.50, y=20.00, z=1096.50]
+[15Jul2025 00:35:19.352] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:35:39.351] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:35:49.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/17495, l='ServerLevel[world]', x=-138.50, y=48.00, z=1050.50]
+[15Jul2025 00:36:11.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [A Small Cemetery]
+[15Jul2025 00:36:32.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Nightmare Stalker
+[15Jul2025 00:36:35.506] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:36:35.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[15Jul2025 00:36:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Grave Inscription]
+[15Jul2025 00:36:56.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18704, l='ServerLevel[world]', x=0.50, y=19.00, z=1079.50]
+[15Jul2025 00:36:56.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Fallen Chaos Knight
+[15Jul2025 00:36:56.968] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 00:37:38.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- withered away
+[15Jul2025 00:37:38.637] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[15Jul2025 00:37:48.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Horror Under the Mantle]
+[15Jul2025 00:37:59.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! 8.317970681625638,-1.7967356006687112,-5.625891506773769

@@ -6612,5 +6612,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-07-15 00:37:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 00:29:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
