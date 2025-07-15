@@ -6911,21 +6911,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "ancient_elements:very_hot": {
     "criteria": {
-      "blaze_rod": "2025-07-15 18:28:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-07-15 18:52:39 +0000"
+      "very_hot": "2025-07-15 17:49:56 +0000"
     },
     "done": true
   },
@@ -6935,15 +6923,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+      "crying_obsidian": "2025-07-15 17:57:44 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_logs": "2025-07-15 18:12:28 +0000"
+      "has_obsidian": "2025-07-15 17:57:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-07-15 18:09:46 +0000"
     },
     "done": true
   },
@@ -6953,27 +6947,27 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
     "criteria": {
-      "fortress": "2025-07-15 18:20:56 +0000"
+      "has_logs": "2025-07-15 18:12:28 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
-      "crying_obsidian": "2025-07-15 17:57:44 +0000"
+      "has_log": "2025-07-15 18:12:28 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-15 18:42:50 +0000"
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
     },
     "done": true
   },
-  "regions_unexplored:downer": {
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
     "criteria": {
-      "dorcel": "2025-07-15 18:13:41 +0000"
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
     },
     "done": true
   },
@@ -6995,27 +6989,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
-    "criteria": {
-      "has_log": "2025-07-15 18:12:28 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/brimwood_button": {
     "criteria": {
       "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_skeletosaurus_nest": {
-    "criteria": {
-      "nest": "2025-07-15 18:09:46 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:very_hot": {
-    "criteria": {
-      "very_hot": "2025-07-15 17:49:56 +0000"
     },
     "done": true
   },
@@ -7031,9 +7007,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
-      "has_obsidian": "2025-07-15 17:57:44 +0000"
+      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
     },
     "done": true
   },
@@ -7043,9 +7019,51 @@
     },
     "done": true
   },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-07-15 18:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-15 18:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-15 18:38:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 18:42:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-07-15 18:52:39 +0000"
     },
     "done": true
   },
@@ -7061,21 +7079,81 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/brimwood_door": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_brimwood_planks": "2025-07-15 18:12:32 +0000"
+      "has_quartz": "2025-07-15 19:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
-      "travelled": "2025-07-15 18:38:28 +0000"
+      "has_quartz": "2025-07-15 19:37:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/building_blocks/granite": {
     "criteria": {
-      "has_blaze_rod": "2025-07-15 18:28:49 +0000"
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:pickaxe_that_smelts_ores": {
+    "criteria": {
+      "pickaxe_that_smelts_ores": "2025-07-15 20:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:drillmaster_extraordinaire": {
+    "criteria": {
+      "drillmaster_extraordinaire": "2025-07-15 20:00:46 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:gettingan_upgrade_2": {
+    "criteria": {
+      "gettingan_upgrade_2": "2025-07-15 20:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-15 19:26:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-15 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-15 19:19:48 +0000"
     },
     "done": true
   },

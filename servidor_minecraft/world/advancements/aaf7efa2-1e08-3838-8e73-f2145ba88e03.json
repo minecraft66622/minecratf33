@@ -7034,39 +7034,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
-    },
-    "done": true
-  },
   "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
     "criteria": {
       "has_item": "2025-07-15 18:27:39 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+  "celestisynth:obtain_supernal_netherite_ingot": {
     "criteria": {
-      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/celestial_core": {
-    "criteria": {
-      "has_item": "2025-07-15 18:47:30 +0000"
+      "criteria": "2025-07-15 18:27:39 +0000"
     },
     "done": true
   },
@@ -7088,9 +7064,33 @@
     },
     "done": true
   },
-  "celestisynth:obtain_supernal_netherite_ingot": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "criteria": "2025-07-15 18:27:39 +0000"
+      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-07-15 18:47:30 +0000"
     },
     "done": true
   },
