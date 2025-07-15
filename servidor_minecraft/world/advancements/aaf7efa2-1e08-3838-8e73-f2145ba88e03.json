@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-13 23:29:42 +0000",
+      "minecraft:mushroom_fields": "2025-07-15 06:23:28 +0000",
       "minecraft:taiga": "2025-07-11 01:14:22 +0000",
       "minecraft:deep_ocean": "2025-07-13 19:07:34 +0000",
       "minecraft:frozen_river": "2025-07-11 01:26:46 +0000",
@@ -18,18 +19,23 @@
       "minecraft:savanna_plateau": "2025-07-13 19:02:15 +0000",
       "minecraft:beach": "2025-07-11 01:11:40 +0000",
       "minecraft:dark_forest": "2025-07-13 20:36:18 +0000",
+      "minecraft:mangrove_swamp": "2025-07-15 02:52:53 +0000",
+      "minecraft:sparse_jungle": "2025-07-15 02:35:06 +0000",
       "minecraft:river": "2025-07-11 01:08:23 +0000",
       "minecraft:snowy_plains": "2025-07-11 20:42:01 +0000",
       "minecraft:stony_shore": "2025-07-12 00:26:16 +0000",
       "minecraft:snowy_taiga": "2025-07-11 02:40:10 +0000",
       "minecraft:dripstone_caves": "2025-07-12 02:00:19 +0000",
       "minecraft:grove": "2025-07-12 02:01:05 +0000",
+      "minecraft:swamp": "2025-07-15 02:36:12 +0000",
       "minecraft:jagged_peaks": "2025-07-12 02:01:46 +0000",
       "minecraft:cold_ocean": "2025-07-11 01:11:52 +0000",
       "minecraft:forest": "2025-07-11 00:51:05 +0000",
       "minecraft:lush_caves": "2025-07-11 18:43:38 +0000",
       "minecraft:deep_cold_ocean": "2025-07-12 00:34:41 +0000",
       "minecraft:frozen_ocean": "2025-07-13 20:31:54 +0000",
+      "minecraft:desert": "2025-07-15 03:31:47 +0000",
+      "minecraft:windswept_forest": "2025-07-15 02:53:22 +0000",
       "minecraft:ocean": "2025-07-11 18:43:24 +0000",
       "minecraft:jungle": "2025-07-15 01:37:20 +0000",
       "minecraft:snowy_beach": "2025-07-13 20:30:37 +0000",
@@ -1287,12 +1293,15 @@
       "tropical_river": "2025-07-13 17:54:00 +0000",
       "eucalyptus_forest": "2025-07-13 19:36:31 +0000",
       "magnolia_highlands": "2025-07-13 23:41:34 +0000",
+      "outback": "2025-07-15 03:32:04 +0000",
       "mountains": "2025-07-12 02:01:56 +0000",
       "joshua_desert": "2025-07-13 17:53:59 +0000",
+      "sparse_redwoods": "2025-07-15 02:53:14 +0000",
       "deciduous_forest": "2025-07-13 19:24:51 +0000",
       "boreal_forest": "2025-07-11 01:14:30 +0000",
       "glistering_meadow": "2025-07-11 19:21:06 +0000",
       "blackstone_basin": "2025-07-11 18:13:08 +0000",
+      "fungal_fen": "2025-07-15 03:11:34 +0000",
       "towering_cliffs": "2025-07-15 02:13:30 +0000",
       "chalk_cliffs": "2025-07-13 17:59:09 +0000",
       "infernal_holt": "2025-07-11 18:13:11 +0000",
@@ -1300,14 +1309,17 @@
       "saguaro_desert": "2025-07-13 19:30:16 +0000",
       "temperate_grove": "2025-07-11 22:41:15 +0000",
       "cold_river": "2025-07-11 01:09:35 +0000",
+      "ashen_woodland": "2025-07-15 07:00:03 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "baobab_savanna": "2025-07-13 19:37:43 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "grassland": "2025-07-15 01:38:50 +0000",
+      "prairie": "2025-07-15 03:41:35 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
       "icy_heights": "2025-07-13 18:19:17 +0000",
+      "rainforest": "2025-07-15 03:33:52 +0000",
       "bioshroom_caves": "2025-07-13 20:36:00 +0000",
       "lupine_plains": "2025-07-13 23:41:17 +0000"
     },
@@ -1340,24 +1352,30 @@
       "tropical_river": "2025-07-13 17:54:00 +0000",
       "eucalyptus_forest": "2025-07-13 19:36:31 +0000",
       "magnolia_highlands": "2025-07-13 23:41:34 +0000",
+      "outback": "2025-07-15 03:32:04 +0000",
       "mountains": "2025-07-12 02:01:56 +0000",
       "joshua_desert": "2025-07-13 17:53:59 +0000",
+      "sparse_redwoods": "2025-07-15 02:53:14 +0000",
       "deciduous_forest": "2025-07-13 19:24:51 +0000",
       "boreal_forest": "2025-07-11 01:14:30 +0000",
+      "fungal_fen": "2025-07-15 03:11:34 +0000",
       "towering_cliffs": "2025-07-15 02:13:30 +0000",
       "chalk_cliffs": "2025-07-13 17:59:09 +0000",
       "cold_boreal_taiga": "2025-07-11 01:52:46 +0000",
       "saguaro_desert": "2025-07-13 19:30:16 +0000",
       "temperate_grove": "2025-07-11 22:41:15 +0000",
       "cold_river": "2025-07-11 01:09:35 +0000",
+      "ashen_woodland": "2025-07-15 07:00:03 +0000",
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "baobab_savanna": "2025-07-13 19:37:43 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
       "grassland": "2025-07-15 01:38:50 +0000",
+      "prairie": "2025-07-15 03:41:35 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
       "icy_heights": "2025-07-13 18:19:17 +0000",
+      "rainforest": "2025-07-15 03:33:52 +0000",
       "lupine_plains": "2025-07-13 23:41:17 +0000"
     },
     "done": false
@@ -1913,6 +1931,7 @@
       "entered_deep_crypt": "2025-07-12 03:09:55 +0000",
       "entered_ice_pit": "2025-07-11 21:13:23 +0000",
       "entered_large_dungeon": "2025-07-13 18:00:46 +0000",
+      "entered_tall_witch_hut": "2025-07-15 03:29:05 +0000",
       "entered_castle": "2025-07-11 20:43:59 +0000",
       "entered_black_citadel": "2025-07-13 18:34:40 +0000",
       "entered_watch_tower": "2025-07-14 20:18:16 +0000",
@@ -2242,10 +2261,13 @@
       "minecraft:witch": "2025-07-13 20:26:22 +0000",
       "minecraft:wither_skeleton": "2025-07-11 18:03:30 +0000",
       "minecraft:husk": "2025-07-11 02:15:59 +0000",
+      "minecraft:ender_dragon": "2025-07-15 05:47:19 +0000",
+      "minecraft:shulker": "2025-07-15 05:57:16 +0000",
       "minecraft:cave_spider": "2025-07-11 02:27:24 +0000",
       "minecraft:piglin": "2025-07-11 18:02:10 +0000",
       "minecraft:stray": "2025-07-11 02:27:16 +0000",
       "minecraft:silverfish": "2025-07-11 21:59:42 +0000",
+      "minecraft:enderman": "2025-07-15 05:39:12 +0000",
       "minecraft:vex": "2025-07-11 01:57:26 +0000",
       "minecraft:zombie": "2025-07-11 01:38:38 +0000",
       "minecraft:drowned": "2025-07-13 20:13:05 +0000",
@@ -5032,6 +5054,7 @@
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:maledictus": "2025-07-11 21:06:52 +0000",
+      "cataclysm:ender_guardian": "2025-07-15 06:44:32 +0000",
       "cataclysm:ignis": "2025-07-13 18:51:48 +0000"
     },
     "done": false
@@ -6711,15 +6734,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/tomb_raider": {
+  "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
-      "coded_trigger": "2025-07-15 02:04:11 +0000"
+      "soul_fortress": "2025-07-15 01:55:19 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
+  "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-15 02:17:25 +0000"
+      "nest": "2025-07-15 01:58:35 +0000"
     },
     "done": true
   },
@@ -6729,9 +6752,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_soul_fortress_remains": {
+  "tombstone:adventure/tomb_raider": {
     "criteria": {
-      "soul_fortress": "2025-07-15 01:55:19 +0000"
+      "coded_trigger": "2025-07-15 02:04:11 +0000"
     },
     "done": true
   },
@@ -6741,9 +6764,267 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_skeletosaurus_nest": {
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
-      "nest": "2025-07-15 01:58:35 +0000"
+      "killed_fire_dragon": "2025-07-15 02:17:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-07-15 03:47:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-07-15 03:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-15 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-07-15 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-15 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-07-15 04:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-15 04:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-15 04:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-15 04:41:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-07-15 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-07-15 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-15 04:58:36 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2025-07-15 05:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-15 05:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-15 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-15 05:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-07-15 05:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-15 05:48:58 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-07-15 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_shulker_mimic": {
+    "criteria": {
+      "shulker_mimic": "2025-07-15 05:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-15 05:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-15 05:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-15 05:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-15 05:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-15 05:53:23 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:material_from_space": {
+    "criteria": {
+      "material_from_space": "2025-07-15 05:54:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-07-15 06:39:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_chorusling": {
+    "criteria": {
+      "chorusling": "2025-07-15 06:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-07-15 06:21:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-15 06:41:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-15 06:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-07-15 06:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_endersent": {
+    "criteria": {
+      "endersent": "2025-07-15 06:34:57 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:absolute_zero": {
+    "criteria": {
+      "absolute_zero": "2025-07-15 06:33:06 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-07-15 06:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-07-15 06:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-15 06:50:24 +0000"
     },
     "done": true
   },
