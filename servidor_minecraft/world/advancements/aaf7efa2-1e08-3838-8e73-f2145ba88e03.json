@@ -31,6 +31,7 @@
       "minecraft:deep_cold_ocean": "2025-07-12 00:34:41 +0000",
       "minecraft:frozen_ocean": "2025-07-13 20:31:54 +0000",
       "minecraft:ocean": "2025-07-11 18:43:24 +0000",
+      "minecraft:jungle": "2025-07-15 01:37:20 +0000",
       "minecraft:snowy_beach": "2025-07-13 20:30:37 +0000",
       "minecraft:flower_forest": "2025-07-13 23:42:42 +0000",
       "minecraft:frozen_peaks": "2025-07-12 02:01:08 +0000",
@@ -1266,6 +1267,7 @@
       "pine_taiga": "2025-07-13 23:44:37 +0000",
       "autumnal_maple_forest": "2025-07-11 01:33:11 +0000",
       "muddy_river": "2025-07-11 01:34:21 +0000",
+      "prismachasm": "2025-07-15 01:37:12 +0000",
       "willow_forest": "2025-07-11 22:41:10 +0000",
       "frozen_tundra": "2025-07-11 01:27:00 +0000",
       "redstone_caves": "2025-07-11 18:44:55 +0000",
@@ -1298,6 +1300,7 @@
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "baobab_savanna": "2025-07-13 19:37:43 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
+      "grassland": "2025-07-15 01:38:50 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
@@ -1344,6 +1347,7 @@
       "pine_slopes": "2025-07-12 02:03:24 +0000",
       "baobab_savanna": "2025-07-13 19:37:43 +0000",
       "spires": "2025-07-11 02:42:27 +0000",
+      "grassland": "2025-07-15 01:38:50 +0000",
       "gravel_beach": "2025-07-11 01:09:21 +0000",
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
@@ -4247,6 +4251,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "redstone_caves": "2025-07-11 18:44:55 +0000",
+      "prismachasm": "2025-07-15 01:37:12 +0000",
       "scorching_caves": "2025-07-12 00:33:31 +0000",
       "bioshroom_caves": "2025-07-13 20:36:00 +0000"
     },
@@ -6607,6 +6612,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-07-15 01:20:05 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-07-15 01:06:29 +0000"
@@ -6625,6 +6636,18 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-07-15 01:32:24 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-07-15 01:32:54 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-07-15 01:18:43 +0000"
@@ -6634,6 +6657,18 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-15 01:06:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-07-15 01:20:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_subterranodon": "2025-07-15 01:37:34 +0000"
     },
     "done": true
   },

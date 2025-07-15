@@ -2571,6 +2571,7 @@
       "entered_pillager_camp": "2025-07-13 23:43:16 +0000",
       "entered_hay_storage": "2025-07-14 18:52:49 +0000",
       "entered_pirate_ship": "2025-07-13 01:26:00 +0000",
+      "entered_deep_crypt": "2025-07-15 01:25:52 +0000",
       "entered_druid_circle": "2025-07-14 00:05:33 +0000",
       "entered_large_dungeon": "2025-07-13 18:00:34 +0000",
       "entered_castle": "2025-07-14 00:51:08 +0000",
@@ -4964,6 +4965,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_deep_crypt": "2025-07-15 01:25:52 +0000",
       "entered_castle": "2025-07-14 00:51:08 +0000",
       "entered_jungle_monument": "2025-07-13 18:22:35 +0000",
       "entered_monster_maze": "2025-07-13 20:34:47 +0000"
@@ -6855,6 +6857,12 @@
   "mca:recipes/decorations/magenta_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-14 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-15 01:20:18 +0000"
     },
     "done": true
   },
