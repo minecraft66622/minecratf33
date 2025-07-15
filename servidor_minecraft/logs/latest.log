@@ -1123,3 +1123,35 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 00:58:13.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38312, l='ServerLevel[world]', x=-143.50, y=52.00, z=1052.50]
 [15Jul2025 00:59:28.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38949, l='ServerLevel[world]', x=7.50, y=18.00, z=1093.50]
 [15Jul2025 00:59:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Greed may lead to loss]
+[15Jul2025 01:00:30.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39703, l='ServerLevel[world]', x=2.50, y=25.00, z=1074.50]
+[15Jul2025 01:00:56.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39933, l='ServerLevel[world]', x=5.50, y=22.00, z=1093.50]
+[15Jul2025 01:01:20.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40175, l='ServerLevel[world]', x=-137.50, y=51.00, z=1070.50]
+[15Jul2025 01:01:35.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40303, l='ServerLevel[world]', x=7.50, y=22.00, z=1079.50]
+[15Jul2025 01:02:14.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40845, l='ServerLevel[world]', x=-137.50, y=50.00, z=1062.50]
+[15Jul2025 01:02:33.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[15Jul2025 01:03:06.308] [Server thread/WARN] [tombstone/]: The death event of the player RODSQUARE was canceled by another mod
+[15Jul2025 01:03:06.338] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:03:20.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[15Jul2025 01:03:20.666] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:03:34.947] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/42431, l='ServerLevel[world]', x=3.50, y=21.00, z=1093.50]
+[15Jul2025 01:03:40.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[15Jul2025 01:03:41.042] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:03:58.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[15Jul2025 01:03:59.561] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:04:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[15Jul2025 01:04:21.300] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:04:59.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Ice Dragon
+[15Jul2025 01:05:00.096] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:05:12.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:05:14.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was frozen by Ice Dragon
+[15Jul2025 01:05:15.408] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:05:16.804] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45123, l='ServerLevel[world]', x=1.50, y=16.00, z=1077.50]
+[15Jul2025 01:05:19.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[15Jul2025 01:05:20.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45316, l='ServerLevel[world]', x=2.50, y=19.00, z=1092.50]
+[15Jul2025 01:05:49.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/45695, l='ServerLevel[world]', x=-137.50, y=42.00, z=1043.50]
+[15Jul2025 01:05:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 01:08:54.298] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49206, l='ServerLevel[world]', x=7.50, y=24.00, z=1080.50]
+[15Jul2025 01:09:25.501] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49600, l='ServerLevel[world]', x=8.50, y=20.00, z=1084.50]
+[15Jul2025 01:09:48.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49915, l='ServerLevel[world]', x=-136.50, y=46.00, z=1068.50]
+[15Jul2025 01:09:52.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49982, l='ServerLevel[world]', x=1.50, y=21.00, z=1095.50]
+[15Jul2025 01:10:08.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50114, l='ServerLevel[world]', x=-137.50, y=48.00, z=1053.50]

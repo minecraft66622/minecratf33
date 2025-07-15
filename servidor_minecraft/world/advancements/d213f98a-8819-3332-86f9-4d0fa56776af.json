@@ -6858,6 +6858,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 01:06:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2025-07-15 00:55:05 +0000"
@@ -6876,15 +6882,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 01:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-07-15 01:06:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2025-07-15 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 01:06:20 +0000"
     },
     "done": true
   },
@@ -6966,6 +6990,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 01:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
@@ -6975,6 +7005,12 @@
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-07-15 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-15 01:00:31 +0000"
     },
     "done": true
   },
