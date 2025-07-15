@@ -6923,6 +6923,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-07-15 18:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-07-15 17:57:34 +0000"
@@ -7040,6 +7046,18 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-15 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-07-15 18:52:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 18:52:39 +0000"
     },
     "done": true
   },

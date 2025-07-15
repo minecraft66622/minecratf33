@@ -1683,3 +1683,18 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [15Jul2025 18:50:48.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Jul2025 18:51:03.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15Jul2025 18:51:03.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 18:52:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Who You Gonna Call?]
+[15Jul2025 18:52:59.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15Jul2025 18:54:34.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 18:54:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to -Azumi-]
+[15Jul2025 18:55:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[15Jul2025 18:56:09.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[15Jul2025 18:56:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 18:56:15.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! 9.225024791873693,2.0013359791121417,3.7778992084358833
+[15Jul2025 18:56:22.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! 9.7971893668755,-1.0244240882136921,2.4594263143881108
+[15Jul2025 18:56:30.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[15Jul2025 18:56:31.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 8.579466915531782,2.176759275064242,-4.854757696954039
+[15Jul2025 18:57:17.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[15Jul2025 18:57:34.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[15Jul2025 18:59:44.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5690, y=84, z=6179} BlockPos{x=5690, y=82, z=6180}
+[15Jul2025 19:01:49.764] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
