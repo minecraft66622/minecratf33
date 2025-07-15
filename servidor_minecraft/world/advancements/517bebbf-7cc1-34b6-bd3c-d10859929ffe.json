@@ -5989,9 +5989,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_plate": {
+  "tombstone:recipes/from_dark_marble": {
     "criteria": {
-      "has_grave_plate": "2025-07-15 00:36:44 +0000"
+      "has_ingredient": "2025-07-15 00:34:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-07-15 00:34:43 +0000"
     },
     "done": true
   },
@@ -6001,21 +6007,15 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-15 00:34:43 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-07-15 00:36:11 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_marble": {
+  "tombstone:adventure/create_grave_plate": {
     "criteria": {
-      "has_grave_marble": "2025-07-15 00:34:43 +0000"
+      "has_grave_plate": "2025-07-15 00:36:44 +0000"
     },
     "done": true
   },

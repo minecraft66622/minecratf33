@@ -1065,3 +1065,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 00:37:38.637] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
 [15Jul2025 00:37:48.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Horror Under the Mantle]
 [15Jul2025 00:37:59.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! 8.317970681625638,-1.7967356006687112,-5.625891506773769
+[15Jul2025 00:39:43.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[15Jul2025 00:39:44.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/21965, l='ServerLevel[world]', x=7.50, y=24.00, z=1075.50]
+[15Jul2025 00:40:00.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22179, l='ServerLevel[world]', x=-140.50, y=60.00, z=1059.50]
+[15Jul2025 00:40:00.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 00:40:01.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
+[15Jul2025 00:40:29.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15Jul2025 00:40:47.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[15Jul2025 00:40:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- withered away
+[15Jul2025 00:40:47.964] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[15Jul2025 00:41:08.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Big Boy]
+[15Jul2025 00:42:18.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/24005, l='ServerLevel[world]', x=4.50, y=17.00, z=1095.50]
+[15Jul2025 00:44:26.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Life Finds A Way]
+[15Jul2025 00:44:30.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Re-Extinct]
+[15Jul2025 00:44:50.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/25549, l='ServerLevel[world]', x=-136.50, y=50.00, z=1045.50]
+[15Jul2025 00:45:47.248] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26353, l='ServerLevel[world]', x=-143.50, y=49.00, z=1051.50]
+[15Jul2025 00:46:05.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Law of Club and Fang]
+[15Jul2025 00:46:42.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was consumed by the flames
+[15Jul2025 00:46:42.726] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[15Jul2025 00:47:31.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[15Jul2025 00:47:31.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[15Jul2025 00:48:09.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:35313] logged in with entity id 27907 at (-81.33806723648372, 64.0, 1058.854063401679)
+[15Jul2025 00:48:09.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[15Jul2025 00:48:09.366] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[15Jul2025 00:48:48.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/28412, l='ServerLevel[world]', x=5.50, y=18.00, z=1092.50]
+[15Jul2025 00:49:19.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15Jul2025 00:49:36.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
