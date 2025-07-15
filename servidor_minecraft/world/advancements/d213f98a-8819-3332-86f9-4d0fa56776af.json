@@ -7425,21 +7425,57 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/ashen_shrub": {
+  "legendary_monsters:locate_ancient_stronghold": {
     "criteria": {
-      "has_ashen_sapling": "2025-07-15 06:36:29 +0000"
+      "ancient_stronghold": "2025-07-15 06:03:41 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
+  "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
-      "all_effects": "2025-07-15 06:55:08 +0000"
+      "forge": "2025-07-15 06:10:42 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
-      "has_mushroom": "2025-07-15 07:08:28 +0000"
+      "has_item": "2025-07-15 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-07-15 06:10:42 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-07-15 06:12:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-07-15 06:22:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-15 06:29:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-07-15 06:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-15 06:33:07 +0000"
     },
     "done": true
   },
@@ -7449,15 +7485,45 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2025-07-15 06:03:41 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_bronze_helmet": {
     "criteria": {
       "has_item": "2025-07-15 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-07-15 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 06:33:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/ashen_shrub": {
+    "criteria": {
+      "has_ashen_sapling": "2025-07-15 06:36:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ashen_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 06:36:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-07-15 06:36:47 +0000"
     },
     "done": true
   },
@@ -7473,27 +7539,9 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "born_in_chaos_v1:explosive_temper": {
     "criteria": {
-      "bestiary": "2025-07-15 06:29:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sugar_rush": {
-    "criteria": {
-      "all_effects": "2025-07-15 06:22:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2025-07-15 06:56:07 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:crafting_in_a_higher_level": {
-    "criteria": {
-      "crafting_in_a_higher_level": "2025-07-15 07:00:17 +0000"
+      "explosive_temper_0": "2025-07-15 06:38:09 +0000"
     },
     "done": true
   },
@@ -7509,54 +7557,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-07-15 06:33:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2025-07-15 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_chestplate": {
-    "criteria": {
-      "soul_heart": "2025-07-15 06:32:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
-    "criteria": {
-      "has_item": "2025-07-15 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-07-15 06:54:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-07-15 07:08:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
-    "criteria": {
-      "has_item": "2025-07-15 06:10:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-15 06:33:07 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/dead_stairs": {
     "criteria": {
       "has_dead_planks": "2025-07-15 06:38:33 +0000"
@@ -7566,24 +7566,6 @@
   "regions_unexplored:recipes/decorations/dead_fence": {
     "criteria": {
       "has_dead_planks": "2025-07-15 06:38:33 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:explosive_temper": {
-    "criteria": {
-      "explosive_temper_0": "2025-07-15 06:38:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-07-15 06:33:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-07-15 07:13:51 +0000"
     },
     "done": true
   },
@@ -7611,15 +7593,45 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/ashen_wood": {
+  "regions_unexplored:recipes/redstone/dead_trapdoor": {
     "criteria": {
-      "has_log": "2025-07-15 06:36:47 +0000"
+      "has_dead_planks": "2025-07-15 06:38:33 +0000"
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
+  "tombstone:adventure/mastery_1": {
     "criteria": {
-      "spiky_bug": "2025-07-15 06:12:39 +0000"
+      "coded_trigger": "2025-07-15 06:54:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-07-15 06:55:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-07-15 06:56:07 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:crafting_in_a_higher_level": {
+    "criteria": {
+      "crafting_in_a_higher_level": "2025-07-15 07:00:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-07-15 07:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-15 07:08:28 +0000"
     },
     "done": true
   },
@@ -7629,21 +7641,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/dead_planks": {
+  "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
-      "has_logs": "2025-07-15 06:36:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-07-15 06:33:23 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/dead_trapdoor": {
-    "criteria": {
-      "has_dead_planks": "2025-07-15 06:38:33 +0000"
+      "all_effects": "2025-07-15 07:13:51 +0000"
     },
     "done": true
   },

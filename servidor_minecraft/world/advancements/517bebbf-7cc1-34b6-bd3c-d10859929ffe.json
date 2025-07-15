@@ -6894,5 +6894,11 @@
     },
     "done": true
   },
+  "ancient_elements:sword_of_space": {
+    "criteria": {
+      "sword_of_space": "2025-07-15 17:38:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
