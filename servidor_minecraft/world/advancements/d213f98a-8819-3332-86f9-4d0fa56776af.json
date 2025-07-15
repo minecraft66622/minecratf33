@@ -75,6 +75,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-14 20:17:21 +0000",
       "minecraft:taiga": "2025-07-11 23:25:27 +0000",
+      "minecraft:deep_ocean": "2025-07-15 02:08:59 +0000",
       "minecraft:sunflower_plains": "2025-07-11 23:44:18 +0000",
       "minecraft:cherry_grove": "2025-07-13 23:25:05 +0000",
       "minecraft:birch_forest": "2025-07-13 01:38:01 +0000",
@@ -88,6 +89,7 @@
       "minecraft:dripstone_caves": "2025-07-13 18:49:47 +0000",
       "minecraft:snowy_taiga": "2025-07-14 00:14:53 +0000",
       "minecraft:grove": "2025-07-13 00:18:49 +0000",
+      "minecraft:swamp": "2025-07-15 02:16:26 +0000",
       "minecraft:jagged_peaks": "2025-07-13 00:19:23 +0000",
       "minecraft:cold_ocean": "2025-07-12 00:42:02 +0000",
       "minecraft:forest": "2025-07-11 23:20:48 +0000",
@@ -95,6 +97,7 @@
       "minecraft:deep_cold_ocean": "2025-07-14 19:26:35 +0000",
       "minecraft:frozen_ocean": "2025-07-14 19:20:25 +0000",
       "minecraft:deep_frozen_ocean": "2025-07-14 19:20:53 +0000",
+      "minecraft:windswept_forest": "2025-07-15 02:20:30 +0000",
       "minecraft:ocean": "2025-07-11 23:48:26 +0000",
       "minecraft:jungle": "2025-07-13 18:22:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-12 23:56:03 +0000",
@@ -2034,10 +2037,12 @@
       "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "eucalyptus_forest": "2025-07-13 19:34:08 +0000",
       "mountains": "2025-07-13 17:34:48 +0000",
+      "sparse_redwoods": "2025-07-15 02:21:27 +0000",
       "deciduous_forest": "2025-07-13 17:38:48 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
       "glistering_meadow": "2025-07-14 02:01:28 +0000",
       "blackstone_basin": "2025-07-14 01:44:32 +0000",
+      "towering_cliffs": "2025-07-15 02:14:55 +0000",
       "chalk_cliffs": "2025-07-13 17:45:45 +0000",
       "bamboo_forest": "2025-07-14 18:37:16 +0000",
       "cold_boreal_taiga": "2025-07-14 00:14:52 +0000",
@@ -2046,6 +2051,7 @@
       "cold_river": "2025-07-12 00:00:12 +0000",
       "pine_slopes": "2025-07-13 17:34:34 +0000",
       "baobab_savanna": "2025-07-13 19:40:02 +0000",
+      "old_growth_bayou": "2025-07-15 02:19:52 +0000",
       "spires": "2025-07-14 00:15:20 +0000",
       "grassland": "2025-07-13 17:38:51 +0000",
       "prairie": "2025-07-13 19:15:59 +0000",
@@ -2079,8 +2085,10 @@
       "magnolia_highlands": "2025-07-13 17:09:50 +0000",
       "eucalyptus_forest": "2025-07-13 19:34:08 +0000",
       "mountains": "2025-07-13 17:34:48 +0000",
+      "sparse_redwoods": "2025-07-15 02:21:27 +0000",
       "deciduous_forest": "2025-07-13 17:38:48 +0000",
       "boreal_forest": "2025-07-12 01:25:25 +0000",
+      "towering_cliffs": "2025-07-15 02:14:55 +0000",
       "chalk_cliffs": "2025-07-13 17:45:45 +0000",
       "bamboo_forest": "2025-07-14 18:37:16 +0000",
       "cold_boreal_taiga": "2025-07-14 00:14:52 +0000",
@@ -2089,6 +2097,7 @@
       "cold_river": "2025-07-12 00:00:12 +0000",
       "pine_slopes": "2025-07-13 17:34:34 +0000",
       "baobab_savanna": "2025-07-13 19:40:02 +0000",
+      "old_growth_bayou": "2025-07-15 02:19:52 +0000",
       "spires": "2025-07-14 00:15:20 +0000",
       "grassland": "2025-07-13 17:38:51 +0000",
       "prairie": "2025-07-13 19:15:59 +0000",
@@ -6896,6 +6905,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
@@ -6905,6 +6926,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2025-07-15 01:06:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 02:17:01 +0000"
     },
     "done": true
   },
@@ -6932,9 +6959,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-07-15 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
     },
     "done": true
   },
@@ -6974,6 +7013,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2025-07-15 00:44:30 +0000"
@@ -6998,6 +7043,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
@@ -7010,15 +7061,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-07-15 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
     },
     "done": true
   },
@@ -7034,9 +7103,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-15 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:22:44 +0000"
     },
     "done": true
   },

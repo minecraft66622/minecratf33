@@ -1392,8 +1392,10 @@
     "criteria": {
       "silver_birch_forest": "2025-07-11 01:24:39 +0000",
       "shrubland": "2025-07-11 02:12:53 +0000",
+      "sparse_rainforest": "2025-07-15 01:59:04 +0000",
       "autumnal_maple_forest": "2025-07-11 02:13:12 +0000",
       "muddy_river": "2025-07-11 02:19:15 +0000",
+      "prismachasm": "2025-07-15 02:21:50 +0000",
       "frozen_tundra": "2025-07-11 18:36:14 +0000",
       "redstone_caves": "2025-07-13 17:45:33 +0000",
       "rocky_meadow": "2025-07-11 01:24:33 +0000",
@@ -1401,8 +1403,11 @@
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
       "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
+      "tropical_river": "2025-07-15 02:05:56 +0000",
       "magnolia_highlands": "2025-07-12 01:26:19 +0000",
+      "eucalyptus_forest": "2025-07-15 01:52:47 +0000",
       "outback": "2025-07-15 01:37:18 +0000",
+      "joshua_desert": "2025-07-15 01:58:05 +0000",
       "deciduous_forest": "2025-07-12 02:04:11 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "glistering_meadow": "2025-07-11 19:16:18 +0000",
@@ -1414,6 +1419,7 @@
       "gravel_beach": "2025-07-11 02:13:32 +0000",
       "redwoods": "2025-07-15 01:38:34 +0000",
       "golden_boreal_taiga": "2025-07-11 17:41:15 +0000",
+      "rainforest": "2025-07-15 01:58:32 +0000",
       "lupine_plains": "2025-07-12 01:26:11 +0000"
     },
     "done": false
@@ -1422,6 +1428,7 @@
     "criteria": {
       "silver_birch_forest": "2025-07-11 01:24:39 +0000",
       "shrubland": "2025-07-11 02:12:53 +0000",
+      "sparse_rainforest": "2025-07-15 01:59:04 +0000",
       "autumnal_maple_forest": "2025-07-11 02:13:12 +0000",
       "muddy_river": "2025-07-11 02:19:15 +0000",
       "frozen_tundra": "2025-07-11 18:36:14 +0000",
@@ -1429,8 +1436,11 @@
       "flower_fields": "2025-07-11 01:24:25 +0000",
       "maple_forest": "2025-07-11 01:26:42 +0000",
       "frozen_pine_taiga": "2025-07-11 18:25:56 +0000",
+      "tropical_river": "2025-07-15 02:05:56 +0000",
       "magnolia_highlands": "2025-07-12 01:26:19 +0000",
+      "eucalyptus_forest": "2025-07-15 01:52:47 +0000",
       "outback": "2025-07-15 01:37:18 +0000",
+      "joshua_desert": "2025-07-15 01:58:05 +0000",
       "deciduous_forest": "2025-07-12 02:04:11 +0000",
       "boreal_forest": "2025-07-11 02:55:43 +0000",
       "cold_boreal_taiga": "2025-07-11 02:54:36 +0000",
@@ -1441,6 +1451,7 @@
       "gravel_beach": "2025-07-11 02:13:32 +0000",
       "redwoods": "2025-07-15 01:38:34 +0000",
       "golden_boreal_taiga": "2025-07-11 17:41:15 +0000",
+      "rainforest": "2025-07-15 01:58:32 +0000",
       "lupine_plains": "2025-07-12 01:26:11 +0000"
     },
     "done": false
@@ -5799,7 +5810,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-07-13 17:45:33 +0000"
+      "redstone_caves": "2025-07-13 17:45:33 +0000",
+      "prismachasm": "2025-07-15 02:21:50 +0000"
     },
     "done": false
   },
@@ -6031,18 +6043,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
-    "criteria": {
-      "has_item": "2025-07-15 01:42:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
@@ -6052,54 +6052,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-15 01:40:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-15 01:35:53 +0000"
     },
     "done": true
   },
@@ -6121,12 +6073,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
@@ -6136,6 +6082,78 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-15 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-15 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-15 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-15 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-15 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-15 01:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-15 01:38:15 +0000"
     },
     "done": true
   },
@@ -6169,39 +6187,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-07-15 01:35:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_boots": {
-    "criteria": {
-      "has_item": "2025-07-15 01:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-07-15 01:35:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-07-15 01:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-15 01:35:53 +0000"
     },
     "done": true
   },
@@ -6211,33 +6199,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-15 01:38:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
-    "criteria": {
-      "has_item": "2025-07-15 01:42:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-07-15 01:35:47 +0000"
     },
     "done": true
   },
@@ -6253,9 +6217,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-15 01:38:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
       "has_item": "2025-07-15 01:42:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-07-15 02:05:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_dead_steppe_shrub": {
+    "criteria": {
+      "has_dead_steppe_shrub": "2025-07-15 02:05:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-07-15 02:09:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-07-15 02:09:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 02:11:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/green_dye_from_barrel_cactus": {
+    "criteria": {
+      "has_barrel_cactus": "2025-07-15 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-15 02:15:08 +0000"
     },
     "done": true
   },

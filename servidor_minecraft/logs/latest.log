@@ -1248,3 +1248,159 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [15Jul2025 01:51:24.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 2.8668208825706643,0.0,-9.791629769589008
 [15Jul2025 01:51:36.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5200ms or 104 ticks behind
 [15Jul2025 01:51:59.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15Jul2025 01:52:35.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:52:38.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Jul2025 01:52:40.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:52:50.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:52:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:53:02.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9781ms or 195 ticks behind
+[15Jul2025 01:53:07.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:53:21.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
+[15Jul2025 01:53:39.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[15Jul2025 01:53:56.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15Jul2025 01:54:32.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jul2025 01:54:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:54:36.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Jul2025 01:54:38.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:54:52.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[15Jul2025 01:55:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:55:07.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:55:13.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
+[15Jul2025 01:55:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [The Soul Fortress]
+[15Jul2025 01:55:20.155] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[15Jul2025 01:55:20.159] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[15Jul2025 01:55:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:55:33.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
+[15Jul2025 01:55:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 01:55:55.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6898ms or 137 ticks behind
+[15Jul2025 01:55:55.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Cumulonimbus
+[15Jul2025 01:55:57.850] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:56:16.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6124ms or 122 ticks behind
+[15Jul2025 01:56:45.732] [Worker-Main-10/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[15Jul2025 01:56:45.732] [Worker-Main-10/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[15Jul2025 01:56:45.876] [Worker-Main-10/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[15Jul2025 01:56:49.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:57:06.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:57:06.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:57:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Crushed to death by Cumulonimbus
+[15Jul2025 01:57:09.850] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:57:20.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15Jul2025 01:57:25.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -0.20100501846536645,-5.1623348499336785,8.639446520062393
+[15Jul2025 01:57:30.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 01:57:41.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5898ms or 117 ticks behind
+[15Jul2025 01:57:53.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Jul2025 01:57:58.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Crushed to death by Cumulonimbus
+[15Jul2025 01:57:59.049] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:58:02.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6476ms or 129 ticks behind
+[15Jul2025 01:58:22.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by Cumulonimbus using magic
+[15Jul2025 01:58:23.795] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:58:23.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 1.0024125637937686,-9.093253517141413,5.155643613072243
+[15Jul2025 01:58:35.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Long Time Ago]
+[15Jul2025 01:58:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Exterminated by Cumulonimbus using pure Lightning Energy
+[15Jul2025 01:58:43.205] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:58:43.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 01:58:43.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[15Jul2025 01:59:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has completed the challenge [The Ancient Skeleton]
+[15Jul2025 01:59:14.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by Cumulonimbus using magic
+[15Jul2025 01:59:15.526] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:59:19.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:59:24.683] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 01:59:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Exterminated by Cumulonimbus using pure Lightning Energy
+[15Jul2025 01:59:33.309] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 01:59:36.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 01:59:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 01:59:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Exterminated by Cumulonimbus using pure Lightning Energy
+[15Jul2025 01:59:54.537] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 02:00:15.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by Cumulonimbus using magic
+[15Jul2025 02:00:16.068] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 02:00:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was Exterminated by Cumulonimbus using pure Lightning Energy
+[15Jul2025 02:00:42.177] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 02:01:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was killed by Cumulonimbus using magic
+[15Jul2025 02:01:04.952] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[15Jul2025 02:01:21.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! -7.179133008540248,0.0,7.5237446316741625
+[15Jul2025 02:01:42.554] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jul2025 02:01:42.555] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[15Jul2025 02:01:46.848] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:01:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Teleported JUANCITO to RODSQUARE]
+[15Jul2025 02:02:34.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 3.646351967745886,-9.375047430947205,1.7586297721591109
+[15Jul2025 02:02:34.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[15Jul2025 02:02:34.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:02:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 02:02:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 02:02:58.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:03:02.452] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15Jul2025 02:03:43.121] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:03:52.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[15Jul2025 02:04:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Tomb Raider]
+[15Jul2025 02:05:05.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2785ms or 55 ticks behind
+[15Jul2025 02:05:36.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15Jul2025 02:05:37.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 02:05:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 02:06:51.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 02:07:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Sunken in the Depths]
+[15Jul2025 02:07:10.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 02:07:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 02:07:33.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:08:39.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 02:09:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[15Jul2025 02:09:56.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Its Like Printing my Own Money!]
+[15Jul2025 02:10:20.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:24.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 02:10:27.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/109722, l='ServerLevel[world]', x=-3086.50, y=68.00, z=-8510.50]
+[15Jul2025 02:10:28.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/109728, l='ServerLevel[world]', x=-3084.50, y=68.00, z=-8510.50]
+[15Jul2025 02:10:28.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/109729, l='ServerLevel[world]', x=-3087.50, y=68.00, z=-8508.50]
+[15Jul2025 02:10:28.528] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/109730, l='ServerLevel[world]', x=-3087.50, y=68.00, z=-8512.50]
+[15Jul2025 02:10:31.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:49.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:56.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:10:58.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:11:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [The Only Good Bug...]
+[15Jul2025 02:11:13.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:11:33.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
+[15Jul2025 02:11:38.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[15Jul2025 02:11:56.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[15Jul2025 02:12:19.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:12:19.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:12:20.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jul2025 02:13:13.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3036, y=57, z=-9140} BlockPos{x=-3036, y=56, z=-9140}
+[15Jul2025 02:13:30.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16373ms or 327 ticks behind
+[15Jul2025 02:13:30.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! 4.914747123856159,-1.229424101326714,-8.772526931900757
+[15Jul2025 02:13:30.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 0.48002786571078104,2.752148900367459,9.793558221292187
+[15Jul2025 02:13:30.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE moved too quickly! -7.127762814880498,6.2752761059641955,-3.1757773925346555
+[15Jul2025 02:13:34.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[15Jul2025 02:13:34.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[15Jul2025 02:13:43.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:49653] logged in with entity id 113398 at (3636.9525368104896, 92.0, -4704.603792850903)
+[15Jul2025 02:13:43.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[15Jul2025 02:13:43.767] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[15Jul2025 02:16:59.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15Jul2025 02:17:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Herc was on a Roll!]
+[15Jul2025 02:17:25.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Takako'/118135, l='ServerLevel[world]', x=-3712.84, y=63.00, z=-7911.93] died, message: 'Takako was incinerated by Fire Dragon'
+[15Jul2025 02:17:25.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Takako'/118135, l='ServerLevel[world]', x=-3712.84, y=63.00, z=-7911.93] died: Takako was turned into KFC by Fire Dragon
+[15Jul2025 02:17:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Herc was on a Roll!]
+[15Jul2025 02:17:33.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! -5.7989470282736875,-1.0244240882136921,8.285741305719966
+[15Jul2025 02:17:33.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
+[15Jul2025 02:18:00.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kosuke'/118134, l='ServerLevel[world]', x=-3734.50, y=65.23, z=-7922.97] died, message: 'Kosuke burned to death'
+[15Jul2025 02:18:00.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kosuke'/118134, l='ServerLevel[world]', x=-3734.50, y=65.23, z=-7922.97] died: Kosuke burned to death
+[15Jul2025 02:18:11.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hiroto'/117881, l='ServerLevel[world]', x=-3732.34, y=63.00, z=-7910.67] died, message: 'Hiroto was turned into KFC by Fire Dragon'
+[15Jul2025 02:18:52.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yuri'/117998, l='ServerLevel[world]', x=-3726.62, y=63.00, z=-7912.57] died, message: 'Yuri burned to death'
+[15Jul2025 02:20:44.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[15Jul2025 02:20:53.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[15Jul2025 02:21:02.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[15Jul2025 02:21:20.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[15Jul2025 02:21:38.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[15Jul2025 02:21:48.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120332, l='ServerLevel[world]', x=3750.50, y=89.49, z=-4784.03]
+[15Jul2025 02:21:48.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120333, l='ServerLevel[world]', x=3751.39, y=89.41, z=-4784.14]
+[15Jul2025 02:21:48.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120334, l='ServerLevel[world]', x=3751.95, y=89.41, z=-4784.49]
+[15Jul2025 02:21:48.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120335, l='ServerLevel[world]', x=3752.50, y=89.41, z=-4784.83]
+[15Jul2025 02:21:48.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120336, l='ServerLevel[world]', x=3753.05, y=89.41, z=-4785.18]
+[15Jul2025 02:21:48.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/120337, l='ServerLevel[world]', x=3753.60, y=89.41, z=-4785.52]
+[15Jul2025 02:22:44.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [The Only Good Bug...]
+[15Jul2025 02:23:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set the time to 1000]
