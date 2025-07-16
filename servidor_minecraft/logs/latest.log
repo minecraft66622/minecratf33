@@ -1026,3 +1026,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [16Jul2025 21:55:35.240] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
 [16Jul2025 21:57:04.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [16Jul2025 21:57:49.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:00:57.217] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:02:50.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Become a Mahou Tsukai!]
+[16Jul2025 22:04:07.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[16Jul2025 22:04:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[16Jul2025 22:06:38.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
