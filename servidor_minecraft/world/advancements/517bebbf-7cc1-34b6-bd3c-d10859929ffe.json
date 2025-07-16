@@ -7891,6 +7891,12 @@
     },
     "done": true
   },
+  "ancient_elements:skin_made_of_fire": {
+    "criteria": {
+      "skin_made_of_fire": "2025-07-16 03:49:47 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2025-07-16 03:56:31 +0000"
@@ -7902,12 +7908,6 @@
       "cataclysm:ignis": "2025-07-16 03:56:31 +0000"
     },
     "done": false
-  },
-  "ancient_elements:skin_made_of_fire": {
-    "criteria": {
-      "skin_made_of_fire": "2025-07-16 03:49:47 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }

@@ -992,3 +992,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [16Jul2025 21:28:21.225] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [16Jul2025 21:28:21.264] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [16Jul2025 21:28:21.265] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Jul2025 21:48:59.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:49561] logged in with entity id 1270 at (2271.7703423055486, 103.0, -1403.972582818126)
+[16Jul2025 21:48:59.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[16Jul2025 21:48:59.680] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[16Jul2025 21:49:02.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3366ms or 67 ticks behind
+[16Jul2025 21:49:09.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:57059] logged in with entity id 1464 at (-2128.2529034689155, 90.0, -720.8120191779487)
+[16Jul2025 21:49:09.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[16Jul2025 21:49:09.379] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[16Jul2025 21:52:59.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Timed out
+[16Jul2025 21:52:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[16Jul2025 21:53:05.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[16Jul2025 21:53:05.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[16Jul2025 21:53:13.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:55669] logged in with entity id 3802 at (2299.1303640545543, 110.02442408821369, -1387.090036451109)
+[16Jul2025 21:53:13.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[16Jul2025 21:53:13.516] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[16Jul2025 21:53:16.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:39287] logged in with entity id 3986 at (-83.29493119330571, 78.0, 762.5183195063192)
+[16Jul2025 21:53:16.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[16Jul2025 21:53:16.634] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[16Jul2025 21:53:46.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Timed out
+[16Jul2025 21:53:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[16Jul2025 21:53:57.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUANCITO[/127.128.110.199:60181] logged in with entity id 4273 at (-83.29493119330571, 79.25220334025373, 762.5183195063192)
+[16Jul2025 21:53:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO joined the game
+[16Jul2025 21:53:57.289] [Server thread/INFO] [Jade/]: Syncing config to JUANCITO (aaf7efa2-1e08-3838-8e73-f2145ba88e03)
+[16Jul2025 21:53:58.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Timed out
+[16Jul2025 21:53:58.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[16Jul2025 21:54:54.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:52593] logged in with entity id 4792 at (2299.1303640545543, 110.0, -1387.090036451109)
+[16Jul2025 21:54:54.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[16Jul2025 21:54:54.223] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[16Jul2025 21:55:22.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[16Jul2025 21:55:22.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[16Jul2025 21:55:35.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:42179] logged in with entity id 5378 at (2299.1303640545543, 110.0, -1387.090036451109)
+[16Jul2025 21:55:35.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[16Jul2025 21:55:35.240] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[16Jul2025 21:57:04.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 21:57:49.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
