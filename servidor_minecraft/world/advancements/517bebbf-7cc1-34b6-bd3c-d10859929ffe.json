@@ -1643,6 +1643,7 @@
       "minecraft:piglin": "2025-07-12 03:24:41 +0000",
       "minecraft:enderman": "2025-07-11 19:48:55 +0000",
       "minecraft:silverfish": "2025-07-11 21:58:44 +0000",
+      "minecraft:stray": "2025-07-16 04:17:56 +0000",
       "minecraft:vex": "2025-07-13 01:36:52 +0000",
       "minecraft:zombie": "2025-07-11 01:31:49 +0000",
       "minecraft:zombie_villager": "2025-07-11 20:26:12 +0000"
@@ -7887,6 +7888,24 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-07-16 03:10:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-16 03:56:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ignis": "2025-07-16 03:56:31 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:skin_made_of_fire": {
+    "criteria": {
+      "skin_made_of_fire": "2025-07-16 03:49:47 +0000"
     },
     "done": true
   },
