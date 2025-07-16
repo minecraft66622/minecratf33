@@ -19,9 +19,11 @@
       "minecraft:savanna_plateau": "2025-07-13 19:02:15 +0000",
       "minecraft:beach": "2025-07-11 01:11:40 +0000",
       "minecraft:dark_forest": "2025-07-13 20:36:18 +0000",
+      "minecraft:stony_peaks": "2025-07-16 01:49:57 +0000",
       "minecraft:mangrove_swamp": "2025-07-15 02:52:53 +0000",
       "minecraft:sparse_jungle": "2025-07-15 02:35:06 +0000",
       "minecraft:river": "2025-07-11 01:08:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-16 01:27:53 +0000",
       "minecraft:snowy_plains": "2025-07-11 20:42:01 +0000",
       "minecraft:stony_shore": "2025-07-12 00:26:16 +0000",
       "minecraft:snowy_taiga": "2025-07-11 02:40:10 +0000",
@@ -39,6 +41,8 @@
       "minecraft:ocean": "2025-07-11 18:43:24 +0000",
       "minecraft:jungle": "2025-07-15 01:37:20 +0000",
       "minecraft:snowy_beach": "2025-07-13 20:30:37 +0000",
+      "minecraft:warm_ocean": "2025-07-15 22:05:13 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-15 22:33:42 +0000",
       "minecraft:flower_forest": "2025-07-13 23:42:42 +0000",
       "minecraft:frozen_peaks": "2025-07-12 02:01:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-13 20:18:20 +0000",
@@ -1107,7 +1111,8 @@
       "golden_apple": "2025-07-11 02:50:28 +0000",
       "rotten_flesh": "2025-07-11 21:07:39 +0000",
       "cooked_chicken": "2025-07-11 01:43:56 +0000",
-      "rabbit_stew": "2025-07-11 01:36:13 +0000"
+      "rabbit_stew": "2025-07-11 01:36:13 +0000",
+      "cooked_salmon": "2025-07-16 00:36:34 +0000"
     },
     "done": false
   },
@@ -1319,6 +1324,7 @@
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
       "icy_heights": "2025-07-13 18:19:17 +0000",
+      "hyacinth_deeps": "2025-07-15 21:09:54 +0000",
       "rainforest": "2025-07-15 03:33:52 +0000",
       "bioshroom_caves": "2025-07-13 20:36:00 +0000",
       "lupine_plains": "2025-07-13 23:41:17 +0000"
@@ -1375,6 +1381,7 @@
       "redwoods": "2025-07-13 18:00:24 +0000",
       "golden_boreal_taiga": "2025-07-11 17:00:31 +0000",
       "icy_heights": "2025-07-13 18:19:17 +0000",
+      "hyacinth_deeps": "2025-07-15 21:09:54 +0000",
       "rainforest": "2025-07-15 03:33:52 +0000",
       "lupine_plains": "2025-07-13 23:41:17 +0000"
     },
@@ -1927,6 +1934,7 @@
       "entered_hay_storage": "2025-07-14 18:52:59 +0000",
       "entered_flying_dutchman": "2025-07-11 16:57:03 +0000",
       "entered_elders_temple": "2025-07-15 02:07:03 +0000",
+      "entered_pirate_ship": "2025-07-15 21:08:05 +0000",
       "entered_fishing_ship": "2025-07-12 03:14:26 +0000",
       "entered_deep_crypt": "2025-07-12 03:09:55 +0000",
       "entered_ice_pit": "2025-07-11 21:13:23 +0000",
@@ -5055,6 +5063,7 @@
     "criteria": {
       "cataclysm:maledictus": "2025-07-11 21:06:52 +0000",
       "cataclysm:ender_guardian": "2025-07-15 06:44:32 +0000",
+      "cataclysm:the_leviathan": "2025-07-16 00:33:48 +0000",
       "cataclysm:ignis": "2025-07-13 18:51:48 +0000"
     },
     "done": false
@@ -7097,6 +7106,444 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-07-15 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-07-15 20:28:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-15 20:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-15 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-07-15 20:58:43 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-07-15 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-07-15 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-07-15 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_dupe": {
+    "criteria": {
+      "has_item": "2025-07-15 21:05:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-07-15 21:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-15 21:17:29 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_keres": {
+    "criteria": {
+      "criteria": "2025-07-15 21:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-15 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-15 22:06:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-07-15 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 22:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-15 22:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-15 22:42:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-15 23:01:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-15 23:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-16 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-16 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-16 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-16 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-16 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-16 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-16 00:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-16 00:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-16 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-16 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-16 01:33:59 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-07-16 01:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-07-16 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-16 02:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-16 02:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-16 02:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-16 02:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-16 02:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-16 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-16 01:46:19 +0000"
     },
     "done": true
   },

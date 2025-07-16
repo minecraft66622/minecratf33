@@ -814,7 +814,9 @@
       "chicken": "2025-07-11 17:47:07 +0000",
       "sweet_berries": "2025-07-11 23:26:48 +0000",
       "cooked_beef": "2025-07-11 23:57:00 +0000",
+      "baked_potato": "2025-07-16 01:39:53 +0000",
       "cooked_cod": "2025-07-12 02:14:34 +0000",
+      "pumpkin_pie": "2025-07-16 02:11:10 +0000",
       "mutton": "2025-07-11 23:27:39 +0000",
       "bread": "2025-07-11 17:47:52 +0000",
       "golden_apple": "2025-07-11 20:25:36 +0000",
@@ -2202,6 +2204,7 @@
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
       "rocky_reef": "2025-07-13 18:04:00 +0000",
+      "barley_fields": "2025-07-16 02:00:13 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "mycotoxic_undergrowth": "2025-07-11 18:45:22 +0000",
@@ -2212,6 +2215,7 @@
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
       "tropical_river": "2025-07-13 17:38:31 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
+      "eucalyptus_forest": "2025-07-16 01:57:07 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
       "joshua_desert": "2025-07-13 17:28:24 +0000",
       "deciduous_forest": "2025-07-13 01:25:40 +0000",
@@ -2592,6 +2596,7 @@
       "willow_forest": "2025-07-11 20:26:54 +0000",
       "frozen_tundra": "2025-07-11 23:30:43 +0000",
       "rocky_reef": "2025-07-13 18:04:00 +0000",
+      "barley_fields": "2025-07-16 02:00:13 +0000",
       "grassy_beach": "2025-07-11 20:25:55 +0000",
       "rocky_meadow": "2025-07-12 01:13:21 +0000",
       "ochard": "2025-07-13 01:23:59 +0000",
@@ -2601,6 +2606,7 @@
       "frozen_pine_taiga": "2025-07-11 23:30:54 +0000",
       "tropical_river": "2025-07-13 17:38:31 +0000",
       "magnolia_highlands": "2025-07-12 01:49:50 +0000",
+      "eucalyptus_forest": "2025-07-16 01:57:07 +0000",
       "mountains": "2025-07-12 02:02:42 +0000",
       "joshua_desert": "2025-07-13 17:28:24 +0000",
       "deciduous_forest": "2025-07-13 01:25:40 +0000",
@@ -6137,15 +6143,21 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/lunar_scrap_smelting": {
-    "criteria": {
-      "has_item": "2025-07-13 18:24:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-13 18:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-13 18:24:00 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-07-13 18:24:17 +0000"
     },
     "done": true
   },
@@ -6158,12 +6170,6 @@
   "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
       "has_item": "2025-07-13 18:24:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-13 18:24:00 +0000"
     },
     "done": true
   },
@@ -6182,6 +6188,78 @@
   "celestisynth:recipes/misc/lunar_scrap_blasting": {
     "criteria": {
       "has_item": "2025-07-13 18:24:17 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-07-16 01:40:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-16 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-16 01:54:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-07-16 01:57:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smelting": {
+    "criteria": {
+      "has_barley": "2025-07-16 02:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smoking": {
+    "criteria": {
+      "has_barley": "2025-07-16 02:00:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-16 02:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-16 02:20:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:28:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 02:09:07 +0000"
     },
     "done": true
   },

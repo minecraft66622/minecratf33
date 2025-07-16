@@ -89,6 +89,7 @@
       "minecraft:mangrove_swamp": "2025-07-15 02:27:22 +0000",
       "minecraft:river": "2025-07-11 23:20:30 +0000",
       "minecraft:stony_shore": "2025-07-13 01:24:46 +0000",
+      "minecraft:snowy_plains": "2025-07-15 22:57:05 +0000",
       "minecraft:dripstone_caves": "2025-07-13 18:49:47 +0000",
       "minecraft:snowy_taiga": "2025-07-14 00:14:53 +0000",
       "minecraft:grove": "2025-07-13 00:18:49 +0000",
@@ -105,6 +106,7 @@
       "minecraft:ocean": "2025-07-11 23:48:26 +0000",
       "minecraft:jungle": "2025-07-13 18:22:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-12 23:56:03 +0000",
+      "minecraft:warm_ocean": "2025-07-15 22:02:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-15 07:02:54 +0000",
       "minecraft:flower_forest": "2025-07-14 19:50:58 +0000",
       "minecraft:frozen_peaks": "2025-07-13 20:42:35 +0000",
@@ -1066,6 +1068,7 @@
       "bread": "2025-07-12 00:55:09 +0000",
       "golden_apple": "2025-07-13 00:28:33 +0000",
       "rotten_flesh": "2025-07-12 00:31:25 +0000",
+      "cookie": "2025-07-15 22:42:54 +0000",
       "glow_berries": "2025-07-14 19:36:30 +0000",
       "salmon": "2025-07-15 05:59:15 +0000",
       "melon_slice": "2025-07-15 03:01:51 +0000",
@@ -1982,7 +1985,9 @@
       "minecraft:skeleton": "2025-07-12 00:09:30 +0000",
       "minecraft:ravager": "2025-07-13 18:09:02 +0000",
       "minecraft:hoglin": "2025-07-14 01:49:33 +0000",
+      "minecraft:guardian": "2025-07-15 20:58:19 +0000",
       "minecraft:vindicator": "2025-07-12 00:37:14 +0000",
+      "minecraft:magma_cube": "2025-07-15 21:55:19 +0000",
       "minecraft:spider": "2025-07-12 00:54:13 +0000",
       "minecraft:piglin_brute": "2025-07-14 01:48:25 +0000",
       "minecraft:creeper": "2025-07-11 23:56:56 +0000",
@@ -2023,10 +2028,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-07-16 00:16:36 +0000",
       "silver_birch_forest": "2025-07-12 00:11:26 +0000",
       "shrubland": "2025-07-13 01:14:24 +0000",
       "arid_mountains": "2025-07-13 19:34:22 +0000",
       "dry_bushland": "2025-07-15 03:52:08 +0000",
+      "cold_deciduous_forest": "2025-07-15 23:06:24 +0000",
       "redstone_abyss": "2025-07-14 01:37:19 +0000",
       "steppe": "2025-07-13 19:30:06 +0000",
       "pine_taiga": "2025-07-13 23:50:29 +0000",
@@ -2035,6 +2042,7 @@
       "prismachasm": "2025-07-13 19:49:46 +0000",
       "marsh": "2025-07-15 02:28:00 +0000",
       "willow_forest": "2025-07-11 23:57:53 +0000",
+      "frozen_tundra": "2025-07-16 02:48:36 +0000",
       "barley_fields": "2025-07-13 19:17:23 +0000",
       "rocky_reef": "2025-07-15 04:41:44 +0000",
       "redstone_caves": "2025-07-13 19:49:37 +0000",
@@ -2044,6 +2052,7 @@
       "rocky_meadow": "2025-07-11 23:58:26 +0000",
       "blackwood_taiga": "2025-07-13 20:32:57 +0000",
       "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000",
+      "ochard": "2025-07-16 00:09:28 +0000",
       "flower_fields": "2025-07-13 23:00:59 +0000",
       "highland_fields": "2025-07-13 01:38:59 +0000",
       "maple_forest": "2025-07-12 00:01:57 +0000",
@@ -2062,6 +2071,7 @@
       "fungal_fen": "2025-07-15 03:55:09 +0000",
       "towering_cliffs": "2025-07-15 02:14:55 +0000",
       "chalk_cliffs": "2025-07-13 17:45:45 +0000",
+      "infernal_holt": "2025-07-15 21:19:45 +0000",
       "bamboo_forest": "2025-07-14 18:37:16 +0000",
       "cold_boreal_taiga": "2025-07-14 00:14:52 +0000",
       "saguaro_desert": "2025-07-13 19:33:33 +0000",
@@ -2078,6 +2088,7 @@
       "redwoods": "2025-07-13 18:00:25 +0000",
       "golden_boreal_taiga": "2025-07-14 00:02:20 +0000",
       "hyacinth_deeps": "2025-07-14 19:41:28 +0000",
+      "icy_heights": "2025-07-15 22:56:49 +0000",
       "rainforest": "2025-07-15 04:24:40 +0000",
       "bioshroom_caves": "2025-07-14 19:03:21 +0000",
       "lupine_plains": "2025-07-13 01:38:54 +0000"
@@ -2086,22 +2097,26 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-07-16 00:16:36 +0000",
       "silver_birch_forest": "2025-07-12 00:11:26 +0000",
       "shrubland": "2025-07-13 01:14:24 +0000",
       "arid_mountains": "2025-07-13 19:34:22 +0000",
       "dry_bushland": "2025-07-15 03:52:08 +0000",
+      "cold_deciduous_forest": "2025-07-15 23:06:24 +0000",
       "steppe": "2025-07-13 19:30:06 +0000",
       "pine_taiga": "2025-07-13 23:50:29 +0000",
       "autumnal_maple_forest": "2025-07-12 00:23:06 +0000",
       "muddy_river": "2025-07-12 01:25:53 +0000",
       "marsh": "2025-07-15 02:28:00 +0000",
       "willow_forest": "2025-07-11 23:57:53 +0000",
+      "frozen_tundra": "2025-07-16 02:48:36 +0000",
       "barley_fields": "2025-07-13 19:17:23 +0000",
       "rocky_reef": "2025-07-15 04:41:44 +0000",
       "poppy_fields": "2025-07-13 23:24:48 +0000",
       "grassy_beach": "2025-07-11 23:57:58 +0000",
       "rocky_meadow": "2025-07-11 23:58:26 +0000",
       "blackwood_taiga": "2025-07-13 20:32:57 +0000",
+      "ochard": "2025-07-16 00:09:28 +0000",
       "flower_fields": "2025-07-13 23:00:59 +0000",
       "highland_fields": "2025-07-13 01:38:59 +0000",
       "maple_forest": "2025-07-12 00:01:57 +0000",
@@ -2134,6 +2149,7 @@
       "redwoods": "2025-07-13 18:00:25 +0000",
       "golden_boreal_taiga": "2025-07-14 00:02:20 +0000",
       "hyacinth_deeps": "2025-07-14 19:41:28 +0000",
+      "icy_heights": "2025-07-15 22:56:49 +0000",
       "rainforest": "2025-07-15 04:24:40 +0000",
       "lupine_plains": "2025-07-13 01:38:54 +0000"
     },
@@ -2611,6 +2627,7 @@
       "entered_pillager_camp": "2025-07-13 23:43:16 +0000",
       "entered_hay_storage": "2025-07-14 18:52:49 +0000",
       "entered_pirate_ship": "2025-07-13 01:26:00 +0000",
+      "entered_elders_temple": "2025-07-15 20:57:08 +0000",
       "entered_fishing_ship": "2025-07-15 19:01:18 +0000",
       "entered_deep_crypt": "2025-07-15 01:25:52 +0000",
       "entered_druid_circle": "2025-07-14 00:05:33 +0000",
@@ -2620,6 +2637,7 @@
       "entered_dungeon_variant": "2025-07-15 03:57:57 +0000",
       "entered_watch_tower": "2025-07-12 23:53:17 +0000",
       "entered_black_citadel": "2025-07-14 02:01:11 +0000",
+      "entered_sunken_shrine": "2025-07-15 20:21:06 +0000",
       "entered_ruined_building": "2025-07-12 00:39:35 +0000",
       "entered_monster_maze": "2025-07-13 20:34:47 +0000",
       "entered_witch_tower": "2025-07-13 23:57:10 +0000",
@@ -3182,6 +3200,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_5": "2025-07-16 02:33:48 +0000",
       "squireofthe_dark_lord_1": "2025-07-12 23:45:26 +0000"
     },
     "done": false
@@ -5011,6 +5030,7 @@
     "criteria": {
       "entered_deep_crypt": "2025-07-15 01:25:52 +0000",
       "entered_desert_temple": "2025-07-15 04:34:35 +0000",
+      "entered_elders_temple": "2025-07-15 20:57:08 +0000",
       "entered_castle": "2025-07-14 00:51:08 +0000",
       "entered_jungle_monument": "2025-07-13 18:22:35 +0000",
       "entered_monster_maze": "2025-07-13 20:34:47 +0000"
@@ -6072,14 +6092,16 @@
     "criteria": {
       "mycotoxic_undergrowth": "2025-07-14 01:04:50 +0000",
       "blackstone_basin": "2025-07-14 01:44:32 +0000",
+      "infernal_holt": "2025-07-15 21:19:45 +0000",
       "redstone_abyss": "2025-07-14 01:37:19 +0000",
       "glistering_meadow": "2025-07-14 02:01:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-14 01:05:30 +0000"
+      "minecraft:nether_wastes": "2025-07-14 01:05:30 +0000",
+      "minecraft:basalt_deltas": "2025-07-15 21:58:26 +0000"
     },
     "done": false
   },
@@ -7655,15 +7677,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/tomb_raider": {
-    "criteria": {
-      "coded_trigger": "2025-07-15 18:29:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-07-15 18:25:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "crocodile_chestplate": "2025-07-15 18:25:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 18:29:43 +0000"
     },
     "done": true
   },
@@ -7673,9 +7701,532 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile_chestplate": {
+  "ancient_elements:hammer_time": {
     "criteria": {
-      "crocodile_chestplate": "2025-07-15 18:25:28 +0000"
+      "hammer_time": "2025-07-15 20:28:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-07-15 20:47:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-15 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:sunken_deeps": {
+    "criteria": {
+      "entered_elders_temple": "2025-07-15 20:57:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-07-15 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-07-15 21:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-15 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-07-15 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-15 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-15 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-07-15 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2025-07-15 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2025-07-15 21:49:04 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-15 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-07-15 21:52:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-07-15 21:52:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-07-15 21:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-15 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-07-15 22:10:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2025-07-15 22:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-07-15 22:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-15 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-07-15 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-15 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-15 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-15 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-07-15 23:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-15 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-15 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-15 23:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-15 23:53:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-07-16 00:29:16 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:miners_nightmare": {
+    "criteria": {
+      "miners_nightmare": "2025-07-16 01:22:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-16 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-16 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-16 02:22:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-07-16 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_branch_from_mangrove_log": {
+    "criteria": {
+      "has_log": "2025-07-16 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-07-16 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-16 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-16 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-07-16 02:38:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-16 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:every_bit_of_the_rainbow": {
+    "criteria": {
+      "white_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-16 01:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-16 02:22:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:maledictus": "2025-07-16 03:05:16 +0000",
+      "cataclysm:the_leviathan": "2025-07-16 02:03:53 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:my_size": {
+    "criteria": {
+      "my_size_0": "2025-07-16 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
+    "criteria": {
+      "has_maple_shrub": "2025-07-16 01:45:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_snowbelle": {
+    "criteria": {
+      "has_white_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-07-16 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-07-16 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_snowbelle": {
+    "criteria": {
+      "has_snowbelle": "2025-07-16 02:49:12 +0000"
     },
     "done": true
   },
