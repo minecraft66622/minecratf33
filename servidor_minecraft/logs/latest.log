@@ -1031,3 +1031,71 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [16Jul2025 22:04:07.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
 [16Jul2025 22:04:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
 [16Jul2025 22:06:38.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:13:18.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[16Jul2025 22:13:54.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:14:08.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 0.37599672306805587
+[16Jul2025 22:16:14.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:17.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:19.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:20.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:16:23.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:25.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:27.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:31.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:33.976] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:35.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:39.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:42.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:43.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:47.974] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:50.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:52.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:56.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:16:58.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:00.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:04.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:07.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:08.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:12.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:17:15.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[16Jul2025 22:18:34.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:18:45.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -0.5691127782856711,-9.995211133441302,-0.6755391406481976
+[16Jul2025 22:18:45.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -0.6900859932961794,-11.445432997652688,-0.8481409730452469
+[16Jul2025 22:18:45.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! 1.709249177986294,9.950565683545108,2.4046148331353834
+[16Jul2025 22:18:45.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! 1.709249177986294,9.950565683545108,2.4046148331353834
+[16Jul2025 22:18:46.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:18:46.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:18:52.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:19:52.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- lost connection: Disconnected
+[16Jul2025 22:19:52.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- left the game
+[16Jul2025 22:20:06.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: -Azumi-[/127.67.69.45:46131] logged in with entity id 18226 at (2667.703746906266, 179.0, -4093.699999988079)
+[16Jul2025 22:20:06.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- joined the game
+[16Jul2025 22:20:06.662] [Server thread/INFO] [Jade/]: Syncing config to -Azumi- (517bebbf-7cc1-34b6-bd3c-d10859929ffe)
+[16Jul2025 22:21:19.932] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:22:49.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved wrongly!
+[16Jul2025 22:23:23.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -3.4501998871114665,5.063568354243017,8.016753126099502
+[16Jul2025 22:23:23.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -3.999183017863743,6.078077611362957,9.293158269965716
+[16Jul2025 22:23:23.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -4.566765374994702,6.972874776142746,10.613045402555144
+[16Jul2025 22:23:23.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -5.150752249791822,7.762085875478519,11.971283649198085
+[16Jul2025 22:23:23.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -5.749207909170309,8.458170065092673,13.363347578436333
+[16Jul2025 22:23:23.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -3.465137406341455,4.984232259383958,8.058490374497524
+[16Jul2025 22:23:23.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -4.087610148497788,5.525732856505357,9.506702366092213
+[16Jul2025 22:23:23.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -4.720010342887235,6.0033363831664275,10.978123138377669
+[16Jul2025 22:23:23.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -5.3611665501462085,6.424582693681501,12.47001405523315
+[16Jul2025 22:23:24.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -6.010045560756225,6.796121939555789,13.979959639598746
+[16Jul2025 22:23:27.115] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16Jul2025 22:23:27.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -4.460874256163606,1.7221513978858525,8.980978333866915
+[16Jul2025 22:23:27.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -5.2630962847988485,1.9029199258802407,10.495760833570785
+[16Jul2025 22:23:27.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! -6.092559692079249,2.062357767571285,12.004326010040131
+[16Jul2025 22:23:29.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 0.41575475241597815
+[16Jul2025 22:23:29.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 0.42596452347379454
+[16Jul2025 22:23:29.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 1.2254056057577145
+[16Jul2025 22:23:29.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 1.9120685649531879
+[16Jul2025 22:23:29.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 2.538386199037177
+[16Jul2025 22:23:30.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 3.132414252810122
+[16Jul2025 22:23:30.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved wrongly! 3.709164795943252
+[16Jul2025 22:23:46.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:23:48.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nagatoro (vehicle of -Azumi-) moved too quickly! 7.273980915915672,-4.776378225666264,7.637072019182597
+[16Jul2025 22:23:52.566] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:23:59.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jul2025 22:23:59.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
